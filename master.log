@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.30)  7 DEC 2017 17:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.30)  8 DEC 2017 10:20
 entering extended mode
 **./master.tex
 (master.tex
@@ -633,24 +633,20 @@ Package epstopdf Info: Source file: <figures/auger_process.eps>
 (epstopdf)                    size: 152956 bytes
 (epstopdf)             Output file: <figures/auger_process-eps-converted-to.pdf
 >
+(epstopdf)                    date: 2017-12-07 17:44:43
+(epstopdf)                    size: 65898 bytes
 (epstopdf)             Command: <epstopdf --outfile=figures/auger_process-eps-c
 onverted-to.pdf figures/auger_process.eps>
-(epstopdf)             \includegraphics on input line 21.
-runsystem(epstopdf --outfile=figures/auger_process-eps-converted-to.pdf figures
-/auger_process.eps)...executed (allowed).
-
-Package epstopdf Info: Result file: <figures/auger_process-eps-converted-to.pdf
->
-(epstopdf)                    date: 2017-12-07 17:44:43
-(epstopdf)                    size: 65898 bytes.
+(epstopdf)             \includegraphics on input line 18.
+Package epstopdf Info: Output file is already uptodate.
 <figures/auger_process-eps-converted-to.pdf, id=25, pagebox=cropbox, 216.81pt x
  139.52126pt>
 File: figures/auger_process-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/auger_process-eps-converted-to.pdf>
 Package pdftex.def Info: figures/auger_process-eps-converted-to.pdf  used on in
-put line 21. on input line 21.
+put line 18. on input line 18.
 Package pdftex.def Info: Requested size: 216.80946pt x 139.5209pt on input line
- 21.
+ 18.
 ) (methods.tex [4 <./figures/auger_process-eps-converted-to.pdf>] [5] [6]) [7] 
 (results.tex
 <figures/k_2dmap.pdf, id=65, pagebox=cropbox, 862.22125pt x 577.15625pt>
@@ -682,15 +678,12 @@ Package epstopdf Info: Source file: <figures/xas_spectra.eps>
 (epstopdf)                    date: 2017-12-05 14:57:25
 (epstopdf)                    size: 1964759 bytes
 (epstopdf)             Output file: <figures/xas_spectra-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-12-07 17:44:45
+(epstopdf)                    size: 559238 bytes
 (epstopdf)             Command: <epstopdf --outfile=figures/xas_spectra-eps-con
 verted-to.pdf figures/xas_spectra.eps>
 (epstopdf)             \includegraphics on input line 49.
-runsystem(epstopdf --outfile=figures/xas_spectra-eps-converted-to.pdf figures/x
-as_spectra.eps)...executed (allowed).
-
-Package epstopdf Info: Result file: <figures/xas_spectra-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-12-07 17:44:45
-(epstopdf)                    size: 559238 bytes.
+Package epstopdf Info: Output file is already uptodate.
 <figures/xas_spectra-eps-converted-to.pdf, id=89, pagebox=cropbox, 592.2125pt x
  297.11pt>
 File: figures/xas_spectra-eps-converted-to.pdf Graphic file (type pdf)
@@ -708,7 +701,7 @@ LaTeX Warning: Reference `fg:rdens_ions' on page 12 undefined on input line 56.
 
 
 [12] [13 <./figures/xas_spectra-eps-converted-to.pdf>] [14] [15] [16])
-(conclusion.tex [17])
+(conclusion.tex) [17]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 210.
 
  ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
@@ -738,14 +731,11 @@ Overfull \vbox (2.54315pt too high) detected at line 222
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
  14664 strings out of 493312
- 275098 string characters out of 3138898
- 342521 words of memory out of 3000000
+ 275232 string characters out of 3138898
+ 341522 words of memory out of 3000000
  18052 multiletter control sequences out of 15000+200000
  550787 words of font info for 63 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -773,7 +763,7 @@ public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
 sfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
 cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pf
 b>
-Output written on master.pdf (23 pages, 1605724 bytes).
+Output written on master.pdf (23 pages, 1605459 bytes).
 PDF statistics:
  611 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
