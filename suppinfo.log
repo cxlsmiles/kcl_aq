@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.30)  11 JAN 2018 17:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.30)  11 JAN 2018 17:42
 entering extended mode
-**./master.tex
-(master.tex
+**./suppinfo.tex
+(suppinfo.tex
 LaTeX2e <2017-04-15>
 Babel <3.15> and hyphenation patterns for 75 language(s) loaded.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\achemso\achemso.cls"
@@ -491,14 +491,16 @@ Package color Info: Driver file: pdftex.def on input line 147.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\xr.sty"
 Package: xr 1994/05/28 v5.02 eXternal References (DPC)
 )
+Package xr Info: IMPORTING LABELS FROM suppinfo.aux on input line 20.
+ (suppinfo.aux
 
-Package xr Warning: 
-No file suppinfo.aux
-LABELS NOT IMPORTED.
- on input line 20.
+LaTeX Warning: Label `fg:rad_dens' multiply defined.
 
-(master.aux)
-\openout1 = `master.aux'.
+
+LaTeX Warning: Label `fg:rdens_ions' multiply defined.
+
+)
+\openout1 = `suppinfo.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 136.
 LaTeX Font Info:    ... okay on input line 136.
@@ -512,7 +514,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 136.
 LaTeX Font Info:    ... okay on input line 136.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 136.
 LaTeX Font Info:    ... okay on input line 136.
-\openout3 = `acs-master.bib'.
+\openout3 = `acs-suppinfo.bib'.
 
 
 *geometry* driver: auto-detecting
@@ -623,147 +625,77 @@ LaTeX Font Info:    Try loading font information for T1+cmss on input line 136.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmss.fd"
 File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-) (abstract.tex)
-[1
-
-{C:/Users/cxl_2/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-(introduction.tex [2] [3]
-Package epstopdf Info: Source file: <figures/auger_process.eps>
-(epstopdf)                    date: 2018-01-09 14:04:44
-(epstopdf)                    size: 129096 bytes
-(epstopdf)             Output file: <figures/auger_process-eps-converted-to.pdf
->
-(epstopdf)                    date: 2018-01-09 14:08:50
-(epstopdf)                    size: 47497 bytes
-(epstopdf)             Command: <epstopdf --outfile=figures/auger_process-eps-c
-onverted-to.pdf figures/auger_process.eps>
-(epstopdf)             \includegraphics on input line 18.
-Package epstopdf Info: Output file is already uptodate.
-<figures/auger_process-eps-converted-to.pdf, id=25, pagebox=cropbox, 224.84pt x
- 159.59625pt>
-File: figures/auger_process-eps-converted-to.pdf Graphic file (type pdf)
-<use figures/auger_process-eps-converted-to.pdf>
-Package pdftex.def Info: figures/auger_process-eps-converted-to.pdf  used on in
-put line 18. on input line 18.
-Package pdftex.def Info: Requested size: 224.83945pt x 159.59584pt on input lin
-e 18.
-) (methods.tex [4 <./figures/auger_process-eps-converted-to.pdf>] [5] [6]) [7] 
-(results.tex
-<figures/k_2dmap.pdf, id=102, pagebox=cropbox, 862.22125pt x 577.15625pt>
-File: figures/k_2dmap.pdf Graphic file (type pdf)
-<use figures/k_2dmap.pdf>
-Package pdftex.def Info: figures/k_2dmap.pdf  used on input line 5. on input li
-ne 5.
-Package pdftex.def Info: Requested size: 474.22316pt x 317.4369pt on input line
- 5.
-
-Overfull \hbox (4.46777pt too wide) in paragraph at lines 5--6
- [][] 
- []
-
-<figures/cl_2dmap.pdf, id=103, pagebox=cropbox, 911.405pt x 577.15625pt>
-File: figures/cl_2dmap.pdf Graphic file (type pdf)
-<use figures/cl_2dmap.pdf>
-Package pdftex.def Info: figures/cl_2dmap.pdf  used on input line 13. on input 
-line 13.
-Package pdftex.def Info: Requested size: 501.27429pt x 317.4369pt on input line
- 13.
-
-Overfull \hbox (31.5189pt too wide) in paragraph at lines 13--14
- [][] 
- []
-
-[8] [9 <./figures/k_2dmap.pdf>] [10 <./figures/cl_2dmap.pdf>] [11] [12]
-Package epstopdf Info: Source file: <figures/xas_spectra.eps>
-(epstopdf)                    date: 2018-01-09 14:04:45
-(epstopdf)                    size: 1964759 bytes
-(epstopdf)             Output file: <figures/xas_spectra-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-01-09 14:08:52
-(epstopdf)                    size: 559238 bytes
-(epstopdf)             Command: <epstopdf --outfile=figures/xas_spectra-eps-con
-verted-to.pdf figures/xas_spectra.eps>
-(epstopdf)             \includegraphics on input line 69.
-Package epstopdf Info: Output file is already uptodate.
-<figures/xas_spectra-eps-converted-to.pdf, id=129, pagebox=cropbox, 592.2125pt 
-x 297.11pt>
-File: figures/xas_spectra-eps-converted-to.pdf Graphic file (type pdf)
-<use figures/xas_spectra-eps-converted-to.pdf>
-Package pdftex.def Info: figures/xas_spectra-eps-converted-to.pdf  used on inpu
-t line 69. on input line 69.
-Package pdftex.def Info: Requested size: 355.33023pt x 178.26736pt on input lin
-e 69.
-
-
-LaTeX Warning: Reference `fg:rdens_ions' on page 13 undefined on input line 76.
-
-
-[13 <./figures/xas_spectra-eps-converted-to.pdf>] [14] [15] [16])
-(conclusion.tex [17]) [18]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 205.
-
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 205.
- (master.bbl [19]
-[20] [21] [22]) [23]
-<figures/graphical.png, id=174, 319.9152pt x 124.5453pt>
-File: figures/graphical.png Graphic file (type png)
-<use figures/graphical.png>
-Package pdftex.def Info: figures/graphical.png  used on input line 217. on inpu
-t line 217.
-Package pdftex.def Info: Requested size: 262.33215pt x 102.12779pt on input lin
-e 217.
+Package epstopdf Info: Source file: <figures/fg2_k_6w_okxx_55_rad_dens.eps>
+(epstopdf)                    date: 2018-01-09 14:04:44
+(epstopdf)                    size: 249303 bytes
+(epstopdf)             Output file: <figures/fg2_k_6w_okxx_55_rad_dens-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2018-01-11 17:40:19
+(epstopdf)                    size: 151108 bytes
+(epstopdf)             Command: <epstopdf --outfile=figures/fg2_k_6w_okxx_55_ra
+d_dens-eps-converted-to.pdf figures/fg2_k_6w_okxx_55_rad_dens.eps>
+(epstopdf)             \includegraphics on input line 141.
+Package epstopdf Info: Output file is already uptodate.
+<figures/fg2_k_6w_okxx_55_rad_dens-eps-converted-to.pdf, id=1, pagebox=cropbox,
+ 953.5625pt x 544.0325pt>
+File: figures/fg2_k_6w_okxx_55_rad_dens-eps-converted-to.pdf Graphic file (type
+ pdf)
+<use figures/fg2_k_6w_okxx_55_rad_dens-eps-converted-to.pdf>
+Package pdftex.def Info: figures/fg2_k_6w_okxx_55_rad_dens-eps-converted-to.pdf
+  used on input line 141. on input line 141.
+Package pdftex.def Info: Requested size: 286.07095pt x 163.211pt on input line 
+141.
+Package epstopdf Info: Source file: <figures/rad_dens_kcl.eps>
+(epstopdf)                    date: 2018-01-09 14:04:44
+(epstopdf)                    size: 125574 bytes
+(epstopdf)             Output file: <figures/rad_dens_kcl-eps-converted-to.pdf>
 
-Overfull \hbox (6.25735pt too wide) in paragraph at lines 217--217
-[][] 
- []
+(epstopdf)                    date: 2018-01-11 17:40:20
+(epstopdf)                    size: 44239 bytes
+(epstopdf)             Command: <epstopdf --outfile=figures/rad_dens_kcl-eps-co
+nverted-to.pdf figures/rad_dens_kcl.eps>
+(epstopdf)             \includegraphics on input line 152.
+Package epstopdf Info: Output file is already uptodate.
+<figures/rad_dens_kcl-eps-converted-to.pdf, id=2, pagebox=cropbox, 305.14pt x 3
+01.125pt>
+File: figures/rad_dens_kcl-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/rad_dens_kcl-eps-converted-to.pdf>
+Package pdftex.def Info: figures/rad_dens_kcl-eps-converted-to.pdf  used on inp
+ut line 152. on input line 152.
+Package pdftex.def Info: Requested size: 305.13924pt x 301.12425pt on input lin
+e 152.
+ [1
 
+{C:/Users/cxl_2/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2 <./figur
+es/fg2_k_6w_okxx_55_rad_dens-eps-converted-to.pdf> <./figures/rad_dens_kcl-eps-
+converted-to.pdf>]
+(suppinfo.aux)
 
-Overfull \vbox (2.54315pt too high) detected at line 217
- []
-
-[24 <./figures/graphical.png>] (master.aux)
-
-LaTeX Warning: There were undefined references.
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 14660 strings out of 493312
- 275100 string characters out of 3138898
- 342546 words of memory out of 3000000
- 18048 multiletter control sequences out of 15000+200000
- 550787 words of font info for 63 fonts, out of 3000000 for 9000
+ 14363 strings out of 493312
+ 268475 string characters out of 3138898
+ 325624 words of memory out of 3000000
+ 17785 multiletter control sequences out of 15000+200000
+ 542110 words of font info for 49 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,11n,94p,10408b,485s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 60i,8n,94p,10410b,410s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
-ecbx1200.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
-ec\dpi600\ecti1440.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
-\jknappen\ec\dpi600\ecbx1440.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts
-\pk\ljfour\jknappen\ec\dpi600\ecrm0800.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX
-\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1728.pk> <C:\Users\cxl_2\AppData\Lo
-cal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1095.pk> <C:\Users\cxl_2\
-AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095.pk> <C:\Us
-ers\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.
-pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
-\ecbx1095.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen
-\ec\dpi600\ecss1200.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfou
-r\jknappen\ec\dpi600\ecti1200.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\font
-s\pk\ljfour\jknappen\ec\dpi600\ecss1000.pk> <C:\Users\cxl_2\AppData\Local\MiKTe
-X\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1440.pk> <C:\Users\cxl_2\AppData\L
-ocal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx2074.pk><C:/Program File
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pf
-b>
-Output written on master.pdf (24 pages, 1589504 bytes).
+ecrm1200.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
+ec\dpi600\ecss1200.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
+\jknappen\ec\dpi600\ecti1200.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts
+\pk\ljfour\jknappen\ec\dpi600\ecss1000.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX
+\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1440.pk> <C:\Users\cxl_2\AppData\Lo
+cal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx2074.pk><C:/Program Files
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on suppinfo.pdf (2 pages, 295029 bytes).
 PDF statistics:
- 641 PDF objects out of 1000 (max. 8388607)
+ 251 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
