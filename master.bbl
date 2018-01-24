@@ -8,7 +8,7 @@
 \providecommand*\mcitethebibliography{\thebibliography}
 \csname @ifundefined\endcsname{endmcitethebibliography}
   {\let\endmcitethebibliography\endthebibliography}{}
-\begin{mcitethebibliography}{55}
+\begin{mcitethebibliography}{56}
 \providecommand*\natexlab[1]{#1}
 \providecommand*\mciteSetBstSublistMode[1]{}
 \providecommand*\mciteSetBstMaxWidthForm[2]{}
@@ -435,11 +435,13 @@ Guillemin,~R.; Sheinerman,~S.; P\"uttner,~R.; Marchenko,~T.; Goldsztejn,~G.;
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
 \EndOfBibitem
-\bibitem[Hertlein \latin{et~al.}(2006)Hertlein, Adaniya, Amini, Bressler,
-  Feinberg, Kaiser, Neumann, Prior, and Belkacem]{hertlein06:062715}
-Hertlein,~M.~P.; Adaniya,~H.; Amini,~J.; Bressler,~C.; Feinberg,~B.;
-  Kaiser,~M.; Neumann,~N.; Prior,~M.~H.; Belkacem,~A. \emph{Phys.\ Rev.~A}
-  \textbf{2006}, \emph{73}, 062715\relax
+\bibitem[Tchaplyguine \latin{et~al.}(2007)Tchaplyguine, Kivim\"aki, Peredkov,
+  Sorensen, \"Ohrwall, Schulz, Lundwall, Rander, Lindblad, Rosso, Svensson,
+  M{\aa}rtensson, and Bj\"orneholm]{tchaplyguine07:124314}
+Tchaplyguine,~M.; Kivim\"aki,~A.; Peredkov,~S.; Sorensen,~S.~L.; \"Ohrwall,~G.;
+  Schulz,~J.; Lundwall,~M.; Rander,~T.; Lindblad,~A.; Rosso,~A.; Svensson,~S.;
+  M{\aa}rtensson,~N.; Bj\"orneholm,~O. \emph{J.~Chem.\ Phys.} \textbf{2007},
+  \emph{127}, 124314\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
@@ -454,6 +456,15 @@ Sugiura,~C. \emph{J.~Chem.\ Phys.} \textbf{1982}, \emph{77}, 681--682\relax
   Solomon]{shadle95:2259}
 Shadle,~S.~E.; Hedman,~B.; Hodgson,~K.~O.; Solomon,~E.~I. \emph{J.~Am.\ Chem.\
   Soc.} \textbf{1995}, \emph{117}, 2259--2272\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Hertlein \latin{et~al.}(2006)Hertlein, Adaniya, Amini, Bressler,
+  Feinberg, Kaiser, Neumann, Prior, and Belkacem]{hertlein06:062715}
+Hertlein,~M.~P.; Adaniya,~H.; Amini,~J.; Bressler,~C.; Feinberg,~B.;
+  Kaiser,~M.; Neumann,~N.; Prior,~M.~H.; Belkacem,~A. \emph{Phys.\ Rev.~A}
+  \textbf{2006}, \emph{73}, 062715\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
