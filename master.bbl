@@ -8,7 +8,7 @@
 \providecommand*\mcitethebibliography{\thebibliography}
 \csname @ifundefined\endcsname{endmcitethebibliography}
   {\let\endmcitethebibliography\endthebibliography}{}
-\begin{mcitethebibliography}{56}
+\begin{mcitethebibliography}{55}
 \providecommand*\natexlab[1]{#1}
 \providecommand*\mciteSetBstSublistMode[1]{}
 \providecommand*\mciteSetBstMaxWidthForm[2]{}
@@ -397,14 +397,6 @@ Schmidt,~M.~W.; Baldridge,~K.~K.; Boatz,~J.~A.; Elbert,~S.~T.; Gordon,~M.~S.;
   Jensen,~J.~H.; Koseki,~S.; Matsunaga,~N.; Nguyen,~K.~A.; Su,~S.;
   Windus,~T.~L.; Dupuis,~M.; Montgomery,~J.~A. \emph{J.~Comp.\ Chem.}
   \textbf{1993}, \emph{14}, 1347--1363\relax
-\mciteBstWouldAddEndPuncttrue
-\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
-{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
-\EndOfBibitem
-\bibitem[Kaufmann \latin{et~al.}(1989)Kaufmann, Baumeister, and
-  Jungen]{Kaufmann89:2223}
-Kaufmann,~K.; Baumeister,~W.; Jungen,~M. \emph{J.~Phys.~B~At.\ Mol.\ Opt.\
-  Phys.} \textbf{1989}, \emph{22}, 2223\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax

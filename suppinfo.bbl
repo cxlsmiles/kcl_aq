@@ -8,7 +8,7 @@
 \providecommand*\mcitethebibliography{\thebibliography}
 \csname @ifundefined\endcsname{endmcitethebibliography}
   {\let\endmcitethebibliography\endthebibliography}{}
-\begin{mcitethebibliography}{0}
+\begin{mcitethebibliography}{2}
 \providecommand*\natexlab[1]{#1}
 \providecommand*\mciteSetBstSublistMode[1]{}
 \providecommand*\mciteSetBstMaxWidthForm[2]{}
@@ -26,4 +26,13 @@
   {\relax}
   {\relax}
 
+\bibitem[F\"{o}hlisch \latin{et~al.}()F\"{o}hlisch, Feulner, Hennies, Fink,
+  Menzel, Sanchez-Portal, Echenique, and Wurth]{foehlisch05:373}
+F\"{o}hlisch,~A.; Feulner,~P.; Hennies,~F.; Fink,~A.; Menzel,~D.;
+  Sanchez-Portal,~D.; Echenique,~P.~M.; Wurth,~W. \emph{Nature} \emph{436},
+  373\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
 \end{mcitethebibliography}
