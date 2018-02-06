@@ -8,7 +8,7 @@
 \providecommand*\mcitethebibliography{\thebibliography}
 \csname @ifundefined\endcsname{endmcitethebibliography}
   {\let\endmcitethebibliography\endthebibliography}{}
-\begin{mcitethebibliography}{55}
+\begin{mcitethebibliography}{57}
 \providecommand*\natexlab[1]{#1}
 \providecommand*\mciteSetBstSublistMode[1]{}
 \providecommand*\mciteSetBstMaxWidthForm[2]{}
@@ -147,6 +147,23 @@ Travnikova,~O.; Marchenko,~T.; Goldsztejn,~G.; J\"ank\"al\"a,~K.; Sisourat,~N.;
   Carniato,~S.; Guillemin,~R.; Journel,~L.; C\'eolin,~D.; P\"uttner,~R.;
   Iwayama,~H.; Shigemasa,~E.; Piancastelli,~M.~N.; Simon,~M. \emph{Phys.\ Rev.\
   Lett.} \textbf{2016}, \emph{116}, 213001\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Gokhberg \latin{et~al.}(2014)Gokhberg, Koloren\v{c}, Kuleff, and
+  Cederbaum]{Gokhberg14:661}
+Gokhberg,~K.; Koloren\v{c},~P.; Kuleff,~A.~I.; Cederbaum,~L.~S. \emph{Nature}
+  \textbf{2014}, \emph{505}, 661--663\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Trinter \latin{et~al.}(2014)Trinter, Sch\"offler, Kim, Sturm, Cole,
+  Neumann, Vredenborg, Williams, Bocharova, Guillemin, Simon, Belkacem,
+  Landers, Weber, Schmidt-B\"ocking, D\"orner, and Jahnke]{Trinter14:664}
+Trinter,~F. \latin{et~al.}  \emph{Nature} \textbf{2014}, \emph{505},
+  664--666\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
