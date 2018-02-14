@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.30)  6 FEB 2018 17:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.30)  14 FEB 2018 17:31
 entering extended mode
 **./master.tex
 (master.tex
@@ -495,18 +495,18 @@ Package xr Info: IMPORTING LABELS FROM suppinfo.aux on input line 20.
  (master.aux)
 \openout1 = `master.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 136.
-LaTeX Font Info:    ... okay on input line 136.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 136.
-LaTeX Font Info:    ... okay on input line 136.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 136.
-LaTeX Font Info:    ... okay on input line 136.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 136.
-LaTeX Font Info:    ... okay on input line 136.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 136.
-LaTeX Font Info:    ... okay on input line 136.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 136.
-LaTeX Font Info:    ... okay on input line 136.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
 \openout3 = `acs-master.bib'.
 
 
@@ -611,35 +611,36 @@ G,.JBIG2,.JB2,.eps]
 .................................................
 . chemgreek info: "mapping-activated"
 . 
-. Activating mapping `default' on line 136.
+. Activating mapping `default' on line 128.
 .................................................
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 136.
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 128.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmss.fd"
 File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 ) [1
 
-{C:/Users/cxl_2/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (abstract.t
-ex)
-(introduction.tex [2] [3]
+{C:/Users/cxl_2/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2] (abstra
+ct.tex)
+(introduction.tex [3] [4]
 
 pdfTeX warning: pdflatex (file ./figures/auger_process.pdf): PDF inclusion: fou
 nd PDF version <1.7>, but at most version <1.5> allowed
-<figures/auger_process.pdf, id=27, pagebox=cropbox, 591.74548pt x 282.7374pt>
+<figures/auger_process.pdf, id=30, pagebox=cropbox, 560.80917pt x 280.38191pt>
 File: figures/auger_process.pdf Graphic file (type pdf)
 <use figures/auger_process.pdf>
 Package pdftex.def Info: figures/auger_process.pdf  used on input line 22. on i
 nput line 22.
-Package pdftex.def Info: Requested size: 473.39702pt x 226.19022pt on input lin
+Package pdftex.def Info: Requested size: 448.64795pt x 224.30583pt on input lin
 e 22.
-
-Overfull \hbox (3.64163pt too wide) in paragraph at lines 22--23
- [][] 
+) (methods.tex [5] [6 <./figures/auger_process.pdf>]
+Overfull \hbox (24.6937pt too wide) in paragraph at lines 12--14
+\T1/cmr/m/n/12 ADC(2)x) as im-ple-mented in the Q-Chem pack-age$[]$. In the cas
+e of Cl$[]$ the 6-311++G(3df,3pd)
  []
 
-) (methods.tex [4] [5 <./figures/auger_process.pdf>] [6]) (results.tex
-<figures/k_2dmap.pdf, id=439, pagebox=cropbox, 867.24pt x 577.15625pt>
+[7]) (results.tex [8]
+<figures/k_2dmap.pdf, id=456, pagebox=cropbox, 867.24pt x 577.15625pt>
 File: figures/k_2dmap.pdf Graphic file (type pdf)
 <use figures/k_2dmap.pdf>
 Package pdftex.def Info: figures/k_2dmap.pdf  used on input line 5. on input li
@@ -651,7 +652,7 @@ Overfull \hbox (7.2281pt too wide) in paragraph at lines 5--6
  [][] 
  []
 
-<figures/cl_2dmap.pdf, id=440, pagebox=cropbox, 916.42375pt x 519.9425pt>
+<figures/cl_2dmap.pdf, id=457, pagebox=cropbox, 916.42375pt x 519.9425pt>
 File: figures/cl_2dmap.pdf Graphic file (type pdf)
 <use figures/cl_2dmap.pdf>
 Package pdftex.def Info: figures/cl_2dmap.pdf  used on input line 13. on input 
@@ -663,7 +664,7 @@ Overfull \hbox (34.27924pt too wide) in paragraph at lines 13--14
  [][] 
  []
 
-[7] [8 <./figures/k_2dmap.pdf>] [9 <./figures/cl_2dmap.pdf>] [10] [11]
+[9 <./figures/k_2dmap.pdf>] [10 <./figures/cl_2dmap.pdf>] [11] [12]
 Package epstopdf Info: Source file: <figures/xas_spectra.eps>
 (epstopdf)                    date: 2018-01-19 11:20:26
 (epstopdf)                    size: 2378384 bytes
@@ -672,90 +673,83 @@ Package epstopdf Info: Source file: <figures/xas_spectra.eps>
 (epstopdf)                    size: 655832 bytes
 (epstopdf)             Command: <epstopdf --outfile=figures/xas_spectra-eps-con
 verted-to.pdf figures/xas_spectra.eps>
-(epstopdf)             \includegraphics on input line 68.
+(epstopdf)             \includegraphics on input line 66.
 Package epstopdf Info: Output file is already uptodate.
-<figures/xas_spectra-eps-converted-to.pdf, id=469, pagebox=cropbox, 587.19376pt
+<figures/xas_spectra-eps-converted-to.pdf, id=480, pagebox=cropbox, 587.19376pt
  x 297.11pt>
 File: figures/xas_spectra-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/xas_spectra-eps-converted-to.pdf>
 Package pdftex.def Info: figures/xas_spectra-eps-converted-to.pdf  used on inpu
-t line 68. on input line 68.
-Package pdftex.def Info: Requested size: 352.31897pt x 178.26736pt on input lin
-e 68.
+t line 66. on input line 66.
+Package pdftex.def Info: Requested size: 469.75565pt x 237.68831pt on input lin
+e 66.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[12] [13 <./figures/xas_spectra-eps-converted-to.pdf>] [14] [15]
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 100.
-
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
-File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-) [16] [17])
-(conclusion.tex [18])
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 205.
+[13] [14 <./figures/xas_spectra-eps-converted-to.pdf>] [15] [16] [17]) [18]
+(conclusion.tex [19])
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 198.
 
  ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 205.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 198.
 
-[19] (master.bbl [20] [21] [22] [23]) [24]
-<figures/graphical.png, id=518, 2489.3pt x 981.6675pt>
+(master.bbl [20] [21] [22] [23] [24]) [25]
+<figures/graphical.png, id=529, 2489.3pt x 981.6675pt>
 File: figures/graphical.png Graphic file (type png)
 <use figures/graphical.png>
-Package pdftex.def Info: figures/graphical.png  used on input line 218. on inpu
-t line 218.
+Package pdftex.def Info: figures/graphical.png  used on input line 211. on inpu
+t line 211.
 Package pdftex.def Info: Requested size: 261.36522pt x 103.07063pt on input lin
-e 218.
+e 211.
 
-Overfull \hbox (5.29042pt too wide) in paragraph at lines 218--218
+Overfull \hbox (5.29042pt too wide) in paragraph at lines 211--211
 [][] 
  []
 
 
-Overfull \vbox (3.486pt too high) detected at line 218
+Overfull \vbox (3.486pt too high) detected at line 211
  []
 
-[25 <./figures/graphical.png>] (master.aux) ) 
+[26 <./figures/graphical.png>] (master.aux) ) 
 Here is how much of TeX's memory you used:
- 14711 strings out of 493312
- 276227 string characters out of 3138898
- 344282 words of memory out of 3000000
+ 14706 strings out of 493312
+ 276003 string characters out of 3138898
+ 345919 words of memory out of 3000000
  18094 multiletter control sequences out of 15000+200000
- 551726 words of font info for 66 fonts, out of 3000000 for 9000
+ 550787 words of font info for 63 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,11n,94p,10408b,495s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 60i,11n,94p,10408b,503s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\cxl_2\AppData\Local\MiK
 TeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\cxl_2\AppData
-\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ectt0800.pk> <C:\Users\cxl
-_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1440.pk> <C:
-\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx14
-40.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi
-600\ecrm0800.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknap
-pen\ec\dpi600\ecbx1728.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\lj
-four\jknappen\ec\dpi600\ecti1095.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\f
-onts\pk\ljfour\jknappen\ec\dpi600\ecrm1095.pk> <C:\Users\cxl_2\AppData\Local\Mi
-KTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1095.pk> <C:\Users\cxl_2\AppDat
-a\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\cx
-l_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1200.pk> <C
-:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1
-200.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dp
-i600\ecss1000.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jkna
-ppen\ec\dpi600\ecss1440.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\l
-jfour\jknappen\ec\dpi600\ecsx2074.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.p
-fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program File
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on master.pdf (25 pages, 2665802 bytes).
+\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1440.pk> <C:\Users\cxl
+_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:
+\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm08
+00.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi
+600\ecbx1728.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknap
+pen\ec\dpi600\ecti1095.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\lj
+four\jknappen\ec\dpi600\ecrm1095.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\f
+onts\pk\ljfour\jknappen\ec\dpi600\ecbx1095.pk> <C:\Users\cxl_2\AppData\Local\Mi
+KTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1200.pk> <C:\Users\cxl_2\AppDat
+a\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1200.pk> <C:\Users\cx
+l_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1000.pk> <C
+:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1
+440.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dp
+i600\ecsx2074.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jkna
+ppen\ec\dpi600\ecrm1200.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on master.pdf (26 pages, 3225395 bytes).
 PDF statistics:
- 992 PDF objects out of 1000 (max. 8388607)
+ 1009 PDF objects out of 1200 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
