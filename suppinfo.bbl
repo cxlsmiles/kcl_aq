@@ -26,11 +26,11 @@
   {\relax}
   {\relax}
 
-\bibitem[F\"{o}hlisch \latin{et~al.}()F\"{o}hlisch, Feulner, Hennies, Fink,
+\bibitem[F\"{o}hlisch \latin{et~al.}(2005)F\"{o}hlisch, Feulner, Hennies, Fink,
   Menzel, Sanchez-Portal, Echenique, and Wurth]{foehlisch05:373}
 F\"{o}hlisch,~A.; Feulner,~P.; Hennies,~F.; Fink,~A.; Menzel,~D.;
-  Sanchez-Portal,~D.; Echenique,~P.~M.; Wurth,~W. \emph{Nature} \emph{436},
-  373\relax
+  Sanchez-Portal,~D.; Echenique,~P.~M.; Wurth,~W. \emph{Nature} \textbf{2005},
+  \emph{436}, 373\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
