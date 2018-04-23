@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.30)  16 FEB 2018 17:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.30)  23 FEB 2018 14:37
 entering extended mode
 **./suppinfo.tex
 (suppinfo.tex
@@ -491,29 +491,22 @@ Package color Info: Driver file: pdftex.def on input line 147.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\xr.sty"
 Package: xr 1994/05/28 v5.02 eXternal References (DPC)
 )
-Package xr Info: IMPORTING LABELS FROM suppinfo.aux on input line 20.
- (suppinfo.aux
-
-LaTeX Warning: Label `fg:si_rdens_ions' multiply defined.
-
-
-LaTeX Warning: Label `fg:si_ct_time' multiply defined.
-
-)
+Package xr Info: IMPORTING LABELS FROM master.aux on input line 20.
+ (suppinfo.aux)
 \openout1 = `suppinfo.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
 \openout3 = `acs-suppinfo.bib'.
 
 
@@ -618,9 +611,9 @@ G,.JBIG2,.JB2,.eps]
 .................................................
 . chemgreek info: "mapping-activated"
 . 
-. Activating mapping `default' on line 129.
+. Activating mapping `default' on line 130.
 .................................................
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 129.
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 130.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmss.fd"
@@ -629,80 +622,69 @@ File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 
 {C:/Users/cxl_2/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 Package epstopdf Info: Source file: <figures/rad_dens_kcl.eps>
-(epstopdf)                    date: 2018-02-14 20:07:06
-(epstopdf)                    size: 155418 bytes
+(epstopdf)                    date: 2018-02-22 14:59:13
+(epstopdf)                    size: 191271 bytes
 (epstopdf)             Output file: <figures/rad_dens_kcl-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2018-02-14 20:08:06
-(epstopdf)                    size: 51961 bytes
+(epstopdf)                    date: 2018-02-22 14:59:22
+(epstopdf)                    size: 58816 bytes
 (epstopdf)             Command: <epstopdf --outfile=figures/rad_dens_kcl-eps-co
 nverted-to.pdf figures/rad_dens_kcl.eps>
-(epstopdf)             \includegraphics on input line 134.
+(epstopdf)             \includegraphics on input line 135.
 Package epstopdf Info: Output file is already uptodate.
 <figures/rad_dens_kcl-eps-converted-to.pdf, id=6, pagebox=cropbox, 418.56375pt 
 x 412.54124pt>
 File: figures/rad_dens_kcl-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/rad_dens_kcl-eps-converted-to.pdf>
 Package pdftex.def Info: figures/rad_dens_kcl-eps-converted-to.pdf  used on inp
-ut line 134. on input line 134.
+ut line 135. on input line 135.
 Package pdftex.def Info: Requested size: 334.85144pt x 330.03345pt on input lin
-e 134.
+e 135.
  [2]
 <figures/partial_cross_sec_ct_time.pdf, id=18, pagebox=cropbox, 529.98pt x 269.
 005pt>
 File: figures/partial_cross_sec_ct_time.pdf Graphic file (type pdf)
 <use figures/partial_cross_sec_ct_time.pdf>
 Package pdftex.def Info: figures/partial_cross_sec_ct_time.pdf  used on input l
-ine 144. on input line 144.
+ine 145. on input line 145.
 Package pdftex.def Info: Requested size: 476.97757pt x 242.10225pt on input lin
-e 144.
+e 145.
 
-Overfull \hbox (7.22218pt too wide) in paragraph at lines 144--145
+Overfull \hbox (7.22218pt too wide) in paragraph at lines 145--146
  [][] 
  []
 
-
-LaTeX Warning: Reference `fg:2dmap_cl' on page 3 undefined on input line 145.
-
-
-LaTeX Warning: Reference `fg:2dmap_cl' on page 3 undefined on input line 145.
-
 (suppinfo.bbl [3 <./figures/rad_dens_kcl-eps-converted-to.pdf>] [4 <./figures/p
-artial_cross_sec_ct_time.pdf>]) [5] (suppinfo.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
- ) 
+artial_cross_sec_ct_time.pdf>]) [5] (suppinfo.aux) ) 
 Here is how much of TeX's memory you used:
- 14398 strings out of 493312
- 268970 string characters out of 3138898
- 326611 words of memory out of 3000000
- 17813 multiletter control sequences out of 15000+200000
+ 14412 strings out of 493312
+ 269174 string characters out of 3138898
+ 326706 words of memory out of 3000000
+ 17826 multiletter control sequences out of 15000+200000
  545185 words of font info for 53 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,9n,94p,10410b,480s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
-ecbx1728.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
-ec\dpi600\ecrm0800.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
-\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts
-\pk\ljfour\jknappen\ec\dpi600\ecss1200.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX
-\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1200.pk> <C:\Users\cxl_2\AppData\Lo
-cal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1000.pk> <C:\Users\cxl_2\
-AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1440.pk> <C:\Us
-ers\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx2074.
+ 60i,9n,94p,10410b,490s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\cxl_2\AppData\Lo
+cal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\cxl_2\
+AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1728.pk> <C:\Us
+ers\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0800.
 pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
-\ecrm1200.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12
-.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/
-Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program F
-iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on suppinfo.pdf (5 pages, 201394 bytes).
+\ecss1200.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen
+\ec\dpi600\ecti1200.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfou
+r\jknappen\ec\dpi600\ecss1000.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\font
+s\pk\ljfour\jknappen\ec\dpi600\ecss1440.pk> <C:\Users\cxl_2\AppData\Local\MiKTe
+X\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx2074.pk> <C:\Users\cxl_2\AppData\L
+ocal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk><C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+msy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb
+>
+Output written on suppinfo.pdf (5 pages, 218694 bytes).
 PDF statistics:
- 319 PDF objects out of 1000 (max. 8388607)
+ 332 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

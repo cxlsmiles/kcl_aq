@@ -8,7 +8,7 @@
 \providecommand*\mcitethebibliography{\thebibliography}
 \csname @ifundefined\endcsname{endmcitethebibliography}
   {\let\endmcitethebibliography\endthebibliography}{}
-\begin{mcitethebibliography}{2}
+\begin{mcitethebibliography}{3}
 \providecommand*\natexlab[1]{#1}
 \providecommand*\mciteSetBstSublistMode[1]{}
 \providecommand*\mciteSetBstMaxWidthForm[2]{}
@@ -26,6 +26,13 @@
   {\relax}
   {\relax}
 
+\bibitem[Buckman and Clark(1994)Buckman, and Clark]{buckman94:539}
+Buckman,~S.~J.; Clark,~C.~W. \emph{Rev. Mod. Phys.} \textbf{1994}, \emph{66},
+  539--655\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
 \bibitem[F\"{o}hlisch \latin{et~al.}(2005)F\"{o}hlisch, Feulner, Hennies, Fink,
   Menzel, Sanchez-Portal, Echenique, and Wurth]{foehlisch05:373}
 F\"{o}hlisch,~A.; Feulner,~P.; Hennies,~F.; Fink,~A.; Menzel,~D.;
