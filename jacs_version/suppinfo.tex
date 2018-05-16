@@ -3,7 +3,7 @@
 %% The document class accepts keyval options, which should include
 %% the target journal and optionally the manuscript type.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\documentclass[journal=jpclcd,manuscript=letter]{achemso}
+\documentclass[journal=jacsat,manuscript=article]{achemso}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% Place any additional packages needed here.  Only include packages
@@ -63,6 +63,7 @@
 \affiliation{Sorbonne Universit\'{e}, CNRS, Laboratoire de Chimie Physique Mati\`{e}re et Rayonnement, UMR 7614, F-75005 Paris, France}
 \email{tsveta.miteva@upmc.fr}
 
+
 \author{Nikolai V. Kryzhevoi}
 \affiliation{Theoretische Chemie, Physikalisch-Chemisches Institut, Universit\"at Heidelberg, Im Neuenheimer Feld 229, D-69120 Heidelberg, Germany}
 
@@ -111,8 +112,8 @@
 %% a running title from the author: this should be supplied as an
 %% optional argument to \title.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\title{The all-seeing eye of resonant Auger electron spectroscopy: a study on aqueous solution using tender x-rays}
-%\title{Tracking the hazy boundary between resonant and normal Auger decay near the K-edges of aqueous \ki~and \cli}
+%\title{The all-seeing eye of resonant Auger electron spectroscopy: a study on aqueous KCl}
+\title{Tracking the hazy boundary between resonant and normal Auger decay in near the K-edges of aqueous \ki~and \cli}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% Some journals require a list of abbreviations or keywords to be
@@ -120,7 +121,7 @@
 %% the title and author information, if needed.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \abbreviations{AES,XAS}
-\keywords{Solvated ions, Auger electron spectroscopy, x-ray absorption spectroscopy}
+\keywords{Solvated ions, Auger spectroscopy, X-ray absorption spectroscopy}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% The manuscript does not need to include \maketitle, which is
@@ -128,78 +129,24 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%% The "tocentry" environment can be used to create an entry for the
-%% graphical table of contents. It is given here as some journals
-%% require that it is printed as part of the abstract page. It will
-%% be automatically moved as appropriate.
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{tocentry}
 
-\includegraphics[scale=0.4]{figures/graphical.png}
-%Some journals require a graphical entry for the Table of Contents.
-%This should be laid out ``print ready'' so that the sizing of the
-%text is correct.
-%
-%Inside the \texttt{tocentry} environment, the font used is Helvetica
-%8\,pt, as required by \emph{Journal of the American Chemical
-%Society}.
-%
-%The surrounding frame is 9\,cm by 3.5\,cm, which is the maximum
-%permitted for  \emph{Journal of the American Chemical Society}
-%graphical table of content entries. The box will not resize if the
-%content is too big: instead it will overflow the edge of the box.
-%
-%This box and the associated title will always be printed on a
-%separate page at the end of the document.
-
-\end{tocentry}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%% The abstract environment will automatically gobble the contents
-%% if an abstract is not used by the target journal.
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{abstract}
- \input{abstract.tex}
-\end{abstract}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%% Start the main part of the manuscript here.
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\input{article_text.tex}
-
-%\input{methods.tex}
-
-%\input{results.tex}
-
-%\input{conclusion.tex}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%% The "Acknowledgement" section can be given in all manuscript
-%% classes.  This should be given within the "acknowledgement"
-%% environment, which will make the correct section or running title.
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%\section{Acknowledgement}
-
-\begin{acknowledgement}
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.8]{figures/rad_dens_kcl.eps}
+\caption{Radial density distributions of the singly-occupied natural orbital occupied by the excited electron corresponding to the 1s$^{-1}$4p, 1s$^{-1}$3d and 1s$^{-1}$5p core excitations in \ki~(lower panel) and \cli~(upper panel). The insets show the region of distances relevant for the overlap with the 1s core orbital whose radial density is shown as a grey shaded area.}
+\label{fg:si_rdens_ions}
+\end{figure}
+{\color{red}
+In what follows we give a tentative explanation of the difference in the radial density distributions of the 1s$^{-1}$4p and 1s$^{-1}$5p states in \ki~and \cli. In the case of \ki, the excited electron mainly sees a $2/r$ potential. In addition, it sees a short range potential coming from the pointlike nucleus and the screening electrons. The latter one normally leads to a quantum defect different from 0. Beside this one has Rydberg series with an infinite number of states. However, in case of Cl- the outer electron does not see a Coulomb potential and the short-range potential becomes dominant. As a result we see the unusual behaviour, like e.g. a finite number of bound states (here obviously 4p). In contrast to this 3d and 5p are in the continuum.}
 
 
-We thank Prof.\ Nobuhiro Kosugi and Dr.\ Matja\v{z} \v{Z}itnik for the fruitful discussions. Experiments were performed at the GALAXIES beamline, SOLEIL Synchrotron, France (Proposal No.\ 20140160). The authors are grateful to the SOLEIL staff for assistance during the beamtime. This project has received funding from the Research Executive Agency (REA) under the European Union$'$s Horizon 2020 research and innovation programme Grant agreement No.\ 705515. Campus France and the PHC SIAM exchange program are acknowledged for financial support (project No.\ 38282QB). L. S. Cederbaum and N. V. Kryzhevoi acknowledge the financial support of the European Research Council (ERC) (Advanced Investigator Grant No.\ 692657) and the Deutsche Forschungsgemeinschaft (DFG research unit 1789).
+\begin{figure}
+\centering
+\includegraphics[scale=0.9]{figures/partial_cross_sec_ct_time.pdf}
+\caption{Partial cross sections and charge transfer time extracted from Fig.\ \ref{fg:2dmap_cl}. The blue and red curves are obtained by integrating the area of the 2p$^{-2}$ and 2p$^{-2}$4p final states ($^1$D state region only) at each photon energy step. From these curves we determine the charge transfer time $\tau_{\text{CT}}$ according to the formula $\tau_{\text{CT}} = \tau l/d$, with $\tau$ being the Cl 1s core-hole lifetime and $l/d$ being the intensity ratio of the localized (2p$^{-2}$ 4p) and delocalized (2p$^{-2}$) states at a given excitation energy \cite{foehlisch05:373}.  The green line defines the Cl$^{-}_{\text{aq}}$(1s) ionization potential.}
+\label{fg:si_ct_time}
+\end{figure}
 
-
-\end{acknowledgement}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%% The same is true for Supporting Information, which should use the
-%% suppinfo environment.
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{suppinfo}
-
-\begin{itemize}
-  \item suppinfo.pdf: contains 1) the radial density distributions of the core excited states of the bare ions; 2) partial cross sections  and charge transfer time extracted from the experimental 2D map near the Cl 1s edge.
-\end{itemize}
-
-\end{suppinfo}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% The appropriate \bibliography command should be placed here.

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.30)  16 FEB 2018 17:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.30)  16 MAY 2018 11:06
 entering extended mode
 **./suppinfo.tex
 (suppinfo.tex
@@ -139,9 +139,9 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \acs@tocentry@height=\skip49
 \acs@tocentry@width=\skip50
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\achemso\achemso-jacsat.cfg"
-File: achemso-jacsat.cfg 2017/05/18 v3.10i achemso configuration: J. Am. Chem. 
-Soc.
+("C:\Program Files\MiKTeX 2.9\tex\latex\achemso\achemso-jpclcd.cfg"
+File: achemso-jpclcd.cfg 2017/05/18 v3.10i achemso configuration: J. Phys. Chem
+. Lett.
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
 Package: natbib 2010/09/13 8.31b (PWD, AO)
@@ -491,15 +491,8 @@ Package color Info: Driver file: pdftex.def on input line 147.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\xr.sty"
 Package: xr 1994/05/28 v5.02 eXternal References (DPC)
 )
-Package xr Info: IMPORTING LABELS FROM suppinfo.aux on input line 20.
- (suppinfo.aux
-
-LaTeX Warning: Label `fg:si_rdens_ions' multiply defined.
-
-
-LaTeX Warning: Label `fg:si_ct_time' multiply defined.
-
-)
+Package xr Info: IMPORTING LABELS FROM master.aux on input line 20.
+ (suppinfo.aux)
 \openout1 = `suppinfo.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 129.
@@ -628,81 +621,72 @@ File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 ) [1
 
 {C:/Users/cxl_2/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Overfull \vbox (35.07321pt too high) has occurred while \output is active []
+
+
+[2] [3]
+Overfull \hbox (24.6937pt too wide) in paragraph at lines 142--144
+\T1/cmr/m/n/12 ADC(2)x) as im-ple-mented in the Q-Chem pack-age$[]$. In the cas
+e of Cl$[]$ the 6-311++G(3df,3pd)
+ []
+
+[4] [5]
 Package epstopdf Info: Source file: <figures/rad_dens_kcl.eps>
-(epstopdf)                    date: 2018-02-14 20:07:06
-(epstopdf)                    size: 155418 bytes
+(epstopdf)                    date: 2018-04-25 13:24:52
+(epstopdf)                    size: 157862 bytes
 (epstopdf)             Output file: <figures/rad_dens_kcl-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2018-02-14 20:08:06
+(epstopdf)                    date: 2018-04-25 13:24:52
 (epstopdf)                    size: 51961 bytes
 (epstopdf)             Command: <epstopdf --outfile=figures/rad_dens_kcl-eps-co
 nverted-to.pdf figures/rad_dens_kcl.eps>
-(epstopdf)             \includegraphics on input line 134.
+(epstopdf)             \includegraphics on input line 159.
 Package epstopdf Info: Output file is already uptodate.
-<figures/rad_dens_kcl-eps-converted-to.pdf, id=6, pagebox=cropbox, 418.56375pt 
-x 412.54124pt>
+<figures/rad_dens_kcl-eps-converted-to.pdf, id=35, pagebox=cropbox, 418.56375pt
+ x 412.54124pt>
 File: figures/rad_dens_kcl-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/rad_dens_kcl-eps-converted-to.pdf>
 Package pdftex.def Info: figures/rad_dens_kcl-eps-converted-to.pdf  used on inp
-ut line 134. on input line 134.
+ut line 159. on input line 159.
 Package pdftex.def Info: Requested size: 334.85144pt x 330.03345pt on input lin
-e 134.
- [2]
-<figures/partial_cross_sec_ct_time.pdf, id=18, pagebox=cropbox, 529.98pt x 269.
-005pt>
-File: figures/partial_cross_sec_ct_time.pdf Graphic file (type pdf)
-<use figures/partial_cross_sec_ct_time.pdf>
-Package pdftex.def Info: figures/partial_cross_sec_ct_time.pdf  used on input l
-ine 144. on input line 144.
-Package pdftex.def Info: Requested size: 476.97757pt x 242.10225pt on input lin
-e 144.
-
-Overfull \hbox (7.22218pt too wide) in paragraph at lines 144--145
- [][] 
- []
+e 159.
 
 
-LaTeX Warning: Reference `fg:2dmap_cl' on page 3 undefined on input line 145.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-LaTeX Warning: Reference `fg:2dmap_cl' on page 3 undefined on input line 145.
-
-(suppinfo.bbl [3 <./figures/rad_dens_kcl-eps-converted-to.pdf>] [4 <./figures/p
-artial_cross_sec_ct_time.pdf>]) [5] (suppinfo.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
- ) 
+[6] (suppinfo.bbl [7 <./figures/rad_dens_kcl-eps-converted-to.pdf>] [8]
+[9] [10]) [11] (suppinfo.aux) ) 
 Here is how much of TeX's memory you used:
- 14398 strings out of 493312
- 268970 string characters out of 3138898
- 326611 words of memory out of 3000000
- 17813 multiletter control sequences out of 15000+200000
- 545185 words of font info for 53 fonts, out of 3000000 for 9000
+ 14522 strings out of 493312
+ 271623 string characters out of 3138898
+ 333043 words of memory out of 3000000
+ 17934 multiletter control sequences out of 15000+200000
+ 547785 words of font info for 59 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,9n,94p,10410b,480s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
-ecbx1728.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
-ec\dpi600\ecrm0800.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
-\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts
-\pk\ljfour\jknappen\ec\dpi600\ecss1200.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX
-\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1200.pk> <C:\Users\cxl_2\AppData\Lo
-cal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1000.pk> <C:\Users\cxl_2\
-AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1440.pk> <C:\Us
-ers\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx2074.
-pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
-\ecrm1200.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12
-.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/
-Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program F
-iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on suppinfo.pdf (5 pages, 201394 bytes).
+ 60i,8n,94p,10410b,410s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\
+pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\
+2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1440.pk> <C:\Users\cxl_2\AppData\Loc
+al\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0800.pk> <C:\Users\cxl_2\A
+ppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:\Use
+rs\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1728.p
+k> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
+ecss1200.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
+ec\dpi600\ecti1200.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
+\jknappen\ec\dpi600\ecss1000.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts
+\pk\ljfour\jknappen\ec\dpi600\ecss1440.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX
+\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx2074.pk> <C:\Users\cxl_2\AppData\Lo
+cal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk><C:/Program Files
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on suppinfo.pdf (11 pages, 265642 bytes).
 PDF statistics:
- 319 PDF objects out of 1000 (max. 8388607)
+ 435 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
