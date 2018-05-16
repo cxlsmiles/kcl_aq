@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.30)  15 MAY 2018 17:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.30)  16 MAY 2018 11:15
 entering extended mode
 **./master.tex
 (master.tex
@@ -492,7 +492,11 @@ Package color Info: Driver file: pdftex.def on input line 147.
 Package: xr 1994/05/28 v5.02 eXternal References (DPC)
 )
 Package xr Info: IMPORTING LABELS FROM suppinfo.aux on input line 20.
- (master.aux)
+
+
+LaTeX Warning: Label `fg:si_rdens_ions' multiply defined.
+
+No file master.aux.
 \openout1 = `master.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 129.
@@ -508,7 +512,6 @@ LaTeX Font Info:    ... okay on input line 129.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 129.
 LaTeX Font Info:    ... okay on input line 129.
 \openout3 = `acs-master.bib'.
-
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -643,6 +646,79 @@ Overfull \vbox (3.36998pt too high) detected at line 164
 
 [3 <./figures/graphical.png>] (article_text.tex
 
+Package natbib Warning: Citation `smith17:13909' on page 4 undefined on input l
+ine 1.
+
+
+Package natbib Warning: Citation `ONeill02:329' on page 4 undefined on input li
+ne 1.
+
+
+Package natbib Warning: Citation `Carugo05:213' on page 4 undefined on input li
+ne 1.
+
+
+Package natbib Warning: Citation `Stumpf16:237' on page 4 undefined on input li
+ne 1.
+
+
+Package natbib Warning: Citation `stoychev08:074307' on page 4 undefined on inp
+ut line 1.
+
+
+Package natbib Warning: Citation `Demekhin08:043421' on page 4 undefined on inp
+ut line 1.
+
+
+Package natbib Warning: Citation `Demekhin09:104303' on page 4 undefined on inp
+ut line 1.
+
+
+Package natbib Warning: Citation `Ouchi11:053415' on page 4 undefined on input 
+line 1.
+
+
+Package natbib Warning: Citation `Miteva14:164303' on page 4 undefined on input
+ line 1.
+
+
+Package natbib Warning: Citation `travnikova16:213001' on page 4 undefined on i
+nput line 1.
+
+
+Package natbib Warning: Citation `Gokhberg14:661' on page 4 undefined on input 
+line 1.
+
+
+Package natbib Warning: Citation `Trinter14:664' on page 4 undefined on input l
+ine 1.
+
+
+Package natbib Warning: Citation `Pokapanich09:7264' on page 4 undefined on inp
+ut line 2.
+
+
+Package natbib Warning: Citation `Pokapanich11:13430' on page 4 undefined on in
+put line 2.
+
+
+Package natbib Warning: Citation `Stumpf16:237' on page 4 undefined on input li
+ne 2.
+
+
+Package natbib Warning: Citation `unger17:708' on page 4 undefined on input lin
+e 2.
+
+
+Package natbib Warning: Citation `ceolin17:263003' on page 4 undefined on input
+ line 2.
+
+
+Package natbib Warning: Citation `ceolin17:263003' on page 4 undefined on input
+ line 7.
+
+
+
 pdfTeX warning: pdflatex (file ./figures/auger_process.pdf): PDF inclusion: fou
 nd PDF version <1.7>, but at most version <1.5> allowed
 <figures/auger_process.pdf, id=29, pagebox=cropbox, 560.80917pt x 280.38191pt>
@@ -652,8 +728,17 @@ Package pdftex.def Info: figures/auger_process.pdf  used on input line 11. on i
 nput line 11.
 Package pdftex.def Info: Requested size: 448.64795pt x 224.30583pt on input lin
 e 11.
+
+LaTeX Warning: Reference `fg:auger' on page 4 undefined on input line 16.
+
+
+LaTeX Warning: Reference `fg:2dmap_k' on page 4 undefined on input line 16.
+
+
+LaTeX Warning: Reference `fg:2dmap_cl' on page 4 undefined on input line 16.
+
 [4]
-<figures/k_2dmap.pdf, id=36, pagebox=cropbox, 867.24pt x 577.15625pt>
+<figures/k_2dmap.pdf, id=38, pagebox=cropbox, 867.24pt x 577.15625pt>
 File: figures/k_2dmap.pdf Graphic file (type pdf)
 <use figures/k_2dmap.pdf>
 Package pdftex.def Info: figures/k_2dmap.pdf  used on input line 21. on input l
@@ -668,7 +753,26 @@ Overfull \hbox (7.2281pt too wide) in paragraph at lines 21--24
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/cl_2dmap.pdf, id=37, pagebox=cropbox, 916.42375pt x 519.9425pt>
+
+Package natbib Warning: Citation `russek86:911' on page 5 undefined on input li
+ne 29.
+
+
+Package natbib Warning: Citation `guillemin15:012503' on page 5 undefined on in
+put line 29.
+
+
+Package natbib Warning: Citation `ceolin17:263003' on page 5 undefined on input
+ line 29.
+
+
+LaTeX Warning: Reference `fg:2dmap_k' on page 5 undefined on input line 32.
+
+
+Package natbib Warning: Citation `ceolin17:263003' on page 5 undefined on input
+ line 32.
+
+<figures/cl_2dmap.pdf, id=39, pagebox=cropbox, 916.42375pt x 519.9425pt>
 File: figures/cl_2dmap.pdf Graphic file (type pdf)
 <use figures/cl_2dmap.pdf>
 Package pdftex.def Info: figures/cl_2dmap.pdf  used on input line 37. on input 
@@ -683,19 +787,46 @@ Overfull \hbox (34.27924pt too wide) in paragraph at lines 37--40
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[5 <./figures/auger_process.pdf>] [6 <./figures/k_2dmap.pdf>] [7 <./figures/cl_
-2dmap.pdf>]
+
+LaTeX Warning: Reference `fg:auger' on page 5 undefined on input line 45.
+
+
+LaTeX Warning: Reference `fg:2dmap_k' on page 5 undefined on input line 45.
+
+
+LaTeX Warning: Reference `fg:2dmap_cl' on page 5 undefined on input line 45.
+
+
+Package natbib Warning: Citation `sugiura82:681' on page 5 undefined on input l
+ine 45.
+
+
+Package natbib Warning: Citation `shadle95:2259' on page 5 undefined on input l
+ine 45.
+
+
+Package natbib Warning: Citation `hertlein06:062715' on page 5 undefined on inp
+ut line 45.
+
+[5 <./figures/auger_process.pdf>] [6 <./figures/k_2dmap.pdf>]
+
+LaTeX Warning: Reference `fg:2dmap_cl' on page 7 undefined on input line 48.
+
+
+LaTeX Warning: Reference `fg:2dmap_k' on page 7 undefined on input line 48.
+
+[7 <./figures/cl_2dmap.pdf>]
 Package epstopdf Info: Source file: <figures/xas_spectra.eps>
-(epstopdf)                    date: 2018-04-26 15:13:17
-(epstopdf)                    size: 2045649 bytes
+(epstopdf)                    date: 2018-05-16 11:08:16
+(epstopdf)                    size: 2973019 bytes
 (epstopdf)             Output file: <figures/xas_spectra-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-04-26 15:13:24
+(epstopdf)                    date: 2018-05-16 11:08:16
 (epstopdf)                    size: 558756 bytes
 (epstopdf)             Command: <epstopdf --outfile=figures/xas_spectra-eps-con
 verted-to.pdf figures/xas_spectra.eps>
 (epstopdf)             \includegraphics on input line 52.
 Package epstopdf Info: Output file is already uptodate.
-<figures/xas_spectra-eps-converted-to.pdf, id=465, pagebox=cropbox, 596.2275pt 
+<figures/xas_spectra-eps-converted-to.pdf, id=509, pagebox=cropbox, 596.2275pt 
 x 297.11pt>
 File: figures/xas_spectra-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/xas_spectra-eps-converted-to.pdf>
@@ -703,53 +834,110 @@ Package pdftex.def Info: figures/xas_spectra-eps-converted-to.pdf  used on inpu
 t line 52. on input line 52.
 Package pdftex.def Info: Requested size: 447.16953pt x 222.83194pt on input lin
 e 52.
- [8 <./figures/xas_spectra-eps-converted-to.pdf>] [9] [10]) [11]
+
+
+Package natbib Warning: Citation `Krause79:329' on page 8 undefined on input li
+ne 53.
+
+
+Package natbib Warning: Citation `Krause79:329' on page 8 undefined on input li
+ne 53.
+
+
+LaTeX Warning: Reference `fg:xas_kcl' on page 8 undefined on input line 58.
+
+
+LaTeX Warning: Reference `fg:xas_kcl' on page 8 undefined on input line 58.
+
+
+Package natbib Warning: Citation `miteva16:16671' on page 8 undefined on input 
+line 58.
+
+[8 <./figures/xas_spectra-eps-converted-to.pdf>]
+
+LaTeX Warning: Reference `fg:2dmap_k' on page 9 undefined on input line 61.
+
+
+LaTeX Warning: Reference `fg:2dmap_k' on page 9 undefined on input line 64.
+
+
+LaTeX Warning: Reference `fg:2dmap_cl' on page 9 undefined on input line 64.
+
+[9]
+
+Package natbib Warning: Citation `ceolin15:022502' on page 10 undefined on inpu
+t line 66.
+
+
+LaTeX Warning: Reference `fg:2dmap_k' on page 10 undefined on input line 66.
+
+
+Package natbib Warning: Citation `winter04:2625' on page 10 undefined on input 
+line 69.
+
+
+LaTeX Warning: Reference `fg:2dmap_cl' on page 10 undefined on input line 72.
+
+[10]
+
+Package natbib Warning: Citation `unger17:708' on page 11 undefined on input li
+ne 75.
+
+
+Package natbib Warning: Citation `Stumpf16:237' on page 11 undefined on input l
+ine 75.
+
+) [11]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 199.
 
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 199.
- (master.bbl [12]
-[13]
-Underfull \hbox (badness 1466) in paragraph at lines 191--199
-[]\T1/cmr/m/n/12 Russek, A.; Mehlhorn, W. Post-collision in-ter-ac-tion and the
- Auger line-shape.
- []
 
-[14]) [15] (master.aux) ) 
+No file master.bbl.
+
+Package natbib Warning: There were undefined citations.
+
+[12] (master.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 14550 strings out of 493312
- 272435 string characters out of 3138898
- 336515 words of memory out of 3000000
- 17949 multiletter control sequences out of 15000+200000
- 549325 words of font info for 61 fonts, out of 3000000 for 9000
+ 14490 strings out of 493312
+ 270923 string characters out of 3138898
+ 333786 words of memory out of 3000000
+ 17892 multiletter control sequences out of 15000+200000
+ 550101 words of font info for 62 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,9n,94p,10408b,482s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljf
-our\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fo
-nts\pk\ljfour\jknappen\ec\dpi600\ecrm0800.pk> <C:\Users\cxl_2\AppData\Local\MiK
-TeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1728.pk> <C:\Users\cxl_2\AppData
-\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1095.pk> <C:\Users\cxl
-_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095.pk> <C:
-\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx10
-95.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi
-600\ecss1200.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknap
-pen\ec\dpi600\ecti1200.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\lj
-four\jknappen\ec\dpi600\ecss1000.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\f
-onts\pk\ljfour\jknappen\ec\dpi600\ecss1440.pk> <C:\Users\cxl_2\AppData\Local\Mi
-KTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx2074.pk> <C:\Users\cxl_2\AppDat
-a\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk><C:/Program F
-iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
-amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.
-pfb>
-Output written on master.pdf (15 pages, 2693398 bytes).
+ 60i,9n,94p,10408b,475s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
+ecrm0800.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
+ec\dpi600\ecbx1200.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
+\jknappen\ec\dpi600\ecbx0800.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts
+\pk\ljfour\jknappen\ec\dpi600\ecbx1728.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX
+\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1095.pk> <C:\Users\cxl_2\AppData\Lo
+cal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095.pk> <C:\Users\cxl_2\
+AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1095.pk> <C:\Us
+ers\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1200.
+pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
+\ecti1200.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen
+\ec\dpi600\ecss1000.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfou
+r\jknappen\ec\dpi600\ecss1440.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\font
+s\pk\ljfour\jknappen\ec\dpi600\ecsx2074.pk> <C:\Users\cxl_2\AppData\Local\MiKTe
+X\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk><C:/Program Files/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on master.pdf (12 pages, 2744111 bytes).
 PDF statistics:
  909 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
