@@ -1,0 +1,308 @@
+\providecommand{\latin}[1]{#1}
+\makeatletter
+\providecommand{\doi}
+  {\begingroup\let\do\@makeother\dospecials
+  \catcode`\{=1 \catcode`\}=2 \doi@aux}
+\providecommand{\doi@aux}[1]{\endgroup\texttt{#1}}
+\makeatother
+\providecommand*\mcitethebibliography{\thebibliography}
+\csname @ifundefined\endcsname{endmcitethebibliography}
+  {\let\endmcitethebibliography\endthebibliography}{}
+\begin{mcitethebibliography}{29}
+\providecommand*\natexlab[1]{#1}
+\providecommand*\mciteSetBstSublistMode[1]{}
+\providecommand*\mciteSetBstMaxWidthForm[2]{}
+\providecommand*\mciteBstWouldAddEndPuncttrue
+  {\def\EndOfBibitem{\unskip.}}
+\providecommand*\mciteBstWouldAddEndPunctfalse
+  {\let\EndOfBibitem\relax}
+\providecommand*\mciteSetBstMidEndSepPunct[3]{}
+\providecommand*\mciteSetBstSublistLabelBeginEnd[3]{}
+\providecommand*\EndOfBibitem{}
+\mciteSetBstSublistMode{f}
+\mciteSetBstMaxWidthForm{subitem}{(\alph{mcitesubitemcount})}
+\mciteSetBstSublistLabelBeginEnd
+  {\mcitemaxwidthsubitemform\space}
+  {\relax}
+  {\relax}
+
+\bibitem[Smith and Saykally(2017)Smith, and Saykally]{smith17:13909}
+Smith,~J.~W.; Saykally,~R.~J. Soft X-ray Absorption Spectroscopy of Liquids and
+  Solutions. \emph{Chem.\ Rev.} \textbf{2017}, \emph{117}, 13909--13934, PMID:
+  29125751\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[O'Neill \latin{et~al.}(2002)O'Neill, Stevens, and
+  Garman]{ONeill02:329}
+O'Neill,~P.; Stevens,~D.~L.; Garman,~E.~F. {Physical and chemical
+  considerations of damage induced in protein crystals by synchrotron
+  radiation: a radiation chemical perspective}. \emph{J. Synchrotron Radiat.}
+  \textbf{2002}, \emph{9}, 329--332\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Carugo and Carugo(2005)Carugo, and Carugo]{Carugo05:213}
+Carugo,~O.; Carugo,~K.~D. {When X-rays modify the protein structure: radiation
+  damage at work}. \emph{Trends\ Biochem.\ Sci.} \textbf{2005}, \emph{30},
+  213--219\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Stumpf \latin{et~al.}(2016)Stumpf, Gokhberg, and
+  Cederbaum]{Stumpf16:237}
+Stumpf,~V.; Gokhberg,~K.; Cederbaum,~L.~S. {The role of metal ions in
+  X-ray-induced photochemistry}. \emph{Nat.\ Chem.} \textbf{2016}, \emph{8},
+  237--241\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Stoychev \latin{et~al.}(2008)Stoychev, Kuleff, Tarantelli, and
+  Cederbaum]{stoychev08:074307}
+Stoychev,~S.~D.; Kuleff,~A.~I.; Tarantelli,~F.; Cederbaum,~L.~S. On the
+  interatomic electronic processes following Auger decay in neon dimer.
+  \emph{J.~Chem.\ Phys.} \textbf{2008}, \emph{129}, 074307\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Demekhin \latin{et~al.}(2008)Demekhin, Scheit, Stoychev, and
+  Cederbaum]{Demekhin08:043421}
+Demekhin,~P.~V.; Scheit,~S.; Stoychev,~S.~D.; Cederbaum,~L.~S. Dynamics of
+  interatomic Coulombic decay in a Ne dimer following the
+  $K\text{\ensuremath{-}}{L}_{1}{L}_{2,3}(^{1}P)$ Auger transition in the Ne
+  atom. \emph{Phys.\ Rev.~A} \textbf{2008}, \emph{78}, 043421\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Demekhin \latin{et~al.}(2009)Demekhin, Chiang, Stoychev, Koloren\v{c},
+  Scheit, Kuleff, Tarantelli, and Cederbaum]{Demekhin09:104303}
+Demekhin,~P.~V.; Chiang,~Y.-C.; Stoychev,~S.~D.; Koloren\v{c},~P.; Scheit,~S.;
+  Kuleff,~A.~I.; Tarantelli,~F.; Cederbaum,~L.~S. Interatomic Coulombic decay
+  and its dynamics in NeAr following K-LL Auger transition in the Ne atom.
+  \emph{J.~Chem.\ Phys.} \textbf{2009}, \emph{131}, 104303\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Ouchi \latin{et~al.}(2011)Ouchi, Sakai, Fukuzawa, Higuchi, Demekhin,
+  Chiang, Stoychev, Kuleff, Mazza, Sch\"offler, Nagaya, Yao, Tamenori, Saito,
+  and Ueda]{Ouchi11:053415}
+Ouchi,~T.; Sakai,~K.; Fukuzawa,~H.; Higuchi,~I.; Demekhin,~P.~V.;
+  Chiang,~Y.-C.; Stoychev,~S.~D.; Kuleff,~A.~I.; Mazza,~T.; Sch\"offler,~M.
+  \latin{et~al.}  Interatomic Coulombic decay following Ne 1s Auger decay in
+  NeAr. \emph{Phys.\ Rev.~A} \textbf{2011}, \emph{83}, 053415\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Miteva \latin{et~al.}(2014)Miteva, Chiang, Koloren\v{c}, Kuleff,
+  Cederbaum, and Gokhberg]{Miteva14:164303}
+Miteva,~T.; Chiang,~Y.-C.; Koloren\v{c},~P.; Kuleff,~A.~I.; Cederbaum,~L.~S.;
+  Gokhberg,~K. {The effect of the partner atom on the spectra of interatomic
+  Coulombic decay triggered by resonant Auger processes}. \emph{J.~Chem.\
+  Phys.} \textbf{2014}, \emph{141}, 164303\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Travnikova \latin{et~al.}(2016)Travnikova, Marchenko, Goldsztejn,
+  J\"ank\"al\"a, Sisourat, Carniato, Guillemin, Journel, C\'eolin, P\"uttner,
+  Iwayama, Shigemasa, Piancastelli, and Simon]{travnikova16:213001}
+Travnikova,~O.; Marchenko,~T.; Goldsztejn,~G.; J\"ank\"al\"a,~K.; Sisourat,~N.;
+  Carniato,~S.; Guillemin,~R.; Journel,~L.; C\'eolin,~D.; P\"uttner,~R.
+  \latin{et~al.}  {Hard-X-Ray-Induced Multistep Ultrafast Dissociation}.
+  \emph{Phys.\ Rev.\ Lett.} \textbf{2016}, \emph{116}, 213001\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Gokhberg \latin{et~al.}(2014)Gokhberg, Koloren\v{c}, Kuleff, and
+  Cederbaum]{Gokhberg14:661}
+Gokhberg,~K.; Koloren\v{c},~P.; Kuleff,~A.~I.; Cederbaum,~L.~S. {Site- and
+  energy-selective slow-electron production through intermolecular Coulombic
+  decay}. \emph{Nature} \textbf{2014}, \emph{505}, 661--663\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Trinter \latin{et~al.}(2014)Trinter, Sch\"offler, Kim, Sturm, Cole,
+  Neumann, Vredenborg, Williams, Bocharova, Guillemin, Simon, Belkacem,
+  Landers, Weber, Schmidt-B\"ocking, D\"orner, and Jahnke]{Trinter14:664}
+Trinter,~F.; Sch\"offler,~M.~S.; Kim,~H.-K.; Sturm,~F.~P.; Cole,~K.;
+  Neumann,~N.; Vredenborg,~A.; Williams,~J.; Bocharova,~I.; Guillemin,~R.
+  \latin{et~al.}  {Resonant Auger decay driving intermolecular Coulombic decay
+  in molecular dimers}. \emph{Nature} \textbf{2014}, \emph{505}, 664--666\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Pokapanich \latin{et~al.}(2009)Pokapanich, Bergersen, Bradeanu,
+  Marinho, Lindblad, Legendre, Rosso, Svensson, Bj\"orneholm, Tchaplyguine,
+  \"Ohrwall, Kryzhevoi, and Cederbaum]{Pokapanich09:7264}
+Pokapanich,~W.; Bergersen,~H.; Bradeanu,~I.~L.; Marinho,~R. R.~T.;
+  Lindblad,~A.; Legendre,~S.; Rosso,~A.; Svensson,~S.; Bj\"orneholm,~O.;
+  Tchaplyguine,~M. \latin{et~al.}  Auger Electron Spectroscopy as a Probe of
+  the Solution of Aqueous Ions. \emph{J.~Am.\ Chem.\ Soc.} \textbf{2009},
+  \emph{131}, 7264--7271\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Pokapanich \latin{et~al.}(2011)Pokapanich, Kryzhevoi, Ottosson,
+  Svensson, Cederbaum, \"Ohrwall, and Bj\"orneholm]{Pokapanich11:13430}
+Pokapanich,~W.; Kryzhevoi,~N.~V.; Ottosson,~N.; Svensson,~S.; Cederbaum,~L.~S.;
+  \"Ohrwall,~G.; Bj\"orneholm,~O. {Ionic-charge dependence of the
+  intermolecular Coulombic decay time-scale for aqueous ions probed by the
+  core-hole clock}. \emph{J.~Am.\ Chem.\ Soc.} \textbf{2011}, \emph{133},
+  13430\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Unger \latin{et~al.}(2017)Unger, Seidel, Th\"{u}rmer, Pohl, Aziz,
+  Cederbaum, Muchov\'{a}, Slav\'{i}\v{c}ek, Winter, and Kryzhevoi]{unger17:708}
+Unger,~I.; Seidel,~R.; Th\"{u}rmer,~S.; Pohl,~M.~N.; Aziz,~E.~F.;
+  Cederbaum,~L.~S.; Muchov\'{a},~E.; Slav\'{i}\v{c}ek,~P.; Winter,~B.;
+  Kryzhevoi,~N.~V. {Observation of electron-transfer-mediated decay in aqueous
+  solution}. \emph{Nat.\ Chem.} \textbf{2017}, \emph{9}, 708\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[C\'eolin \latin{et~al.}(2017)C\'eolin, Kryzhevoi, Nicolas, Pokapanich,
+  Choksakulporn, Songsiriritthigul, Saisopa, Rattanachai, Utsumi, Palaudoux,
+  \"Ohrwall, and Rueff]{ceolin17:263003}
+C\'eolin,~D.; Kryzhevoi,~N.~V.; Nicolas,~C.; Pokapanich,~W.; Choksakulporn,~S.;
+  Songsiriritthigul,~P.; Saisopa,~T.; Rattanachai,~Y.; Utsumi,~Y.;
+  Palaudoux,~J. \latin{et~al.}  Ultrafast Charge Transfer Processes
+  Accompanying $KLL$ Auger Decay in Aqueous KCl Solution. \emph{Phys.\ Rev.\
+  Lett.} \textbf{2017}, \emph{119}, 263003\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Goldsztejn \latin{et~al.}(2016)Goldsztejn, Marchenko, Ceolin, Journel,
+  Guillemin, Rueff, Kushawaha, Puttner, Piancastelli, and
+  Simon]{goldsz16:15133}
+Goldsztejn,~G.; Marchenko,~T.; Ceolin,~D.; Journel,~L.; Guillemin,~R.;
+  Rueff,~J.-P.; Kushawaha,~R.~K.; Puttner,~R.; Piancastelli,~M.~N.; Simon,~M.
+  Electronic state-lifetime interference in resonant Auger spectra: a tool to
+  disentangle overlapping core-excited states. \emph{Phys.\ Chem.\ Chem.\
+  Phys.} \textbf{2016}, \emph{18}, 15133--15142\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[C\'eolin \latin{et~al.}(2013)C\'eolin, Ablett, Prieur, Moreno, Rueff,
+  Marchenko, Journel, Guillemin, Pilette, Marin, and Simon]{ceolin13:188}
+C\'eolin,~D.; Ablett,~J.; Prieur,~D.; Moreno,~T.; Rueff,~J.-P.; Marchenko,~T.;
+  Journel,~L.; Guillemin,~R.; Pilette,~B.; Marin,~T. \latin{et~al.}  Hard X-ray
+  photoelectron spectroscopy on the \{GALAXIES\} beamline at the \{SOLEIL\}
+  synchrotron. \emph{J.~Electron~Spectrosc.~Relat.~Phenom.} \textbf{2013},
+  \emph{190, Part B}, 188 -- 192\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Rueff \latin{et~al.}(2015)Rueff, Ablett, C{\'{e}}olin, Prieur, Moreno,
+  Bal{\'{e}}dent, Lassalle-Kaiser, Rault, Simon, and Shukla]{rueff15:175}
+Rueff,~J.-P.; Ablett,~J.~M.; C{\'{e}}olin,~D.; Prieur,~D.; Moreno,~T.;
+  Bal{\'{e}}dent,~V.; Lassalle-Kaiser,~B.; Rault,~J.~E.; Simon,~M.; Shukla,~A.
+  {The GALAXIES beamline at the SOLEIL synchrotron: inelastic X-ray scattering
+  and photoelectron spectroscopy in the hard X-ray range}. \emph{J. Synchrotron
+  Rad.} \textbf{2015}, \emph{22}, 175--179\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Russek and Mehlhorn(1986)Russek, and Mehlhorn]{russek86:911}
+Russek,~A.; Mehlhorn,~W. Post-collision interaction and the Auger lineshape.
+  \emph{J.~Phys.~B~At.\ Mol.\ Opt.\ Phys.} \textbf{1986}, \emph{19}, 911\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Guillemin \latin{et~al.}(2015)Guillemin, Sheinerman, P\"uttner,
+  Marchenko, Goldsztejn, Journel, Kushawaha, C\'eolin, Piancastelli, and
+  Simon]{guillemin15:012503}
+Guillemin,~R.; Sheinerman,~S.; P\"uttner,~R.; Marchenko,~T.; Goldsztejn,~G.;
+  Journel,~L.; Kushawaha,~R.~K.; C\'eolin,~D.; Piancastelli,~M.~N.; Simon,~M.
+  Postcollision interaction effects in $KLL$ Auger spectra following argon $1s$
+  photoionization. \emph{Phys.\ Rev.~A} \textbf{2015}, \emph{92}, 012503\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Sugiura(1982)]{sugiura82:681}
+Sugiura,~C. Influence of coordinating water on the chlorine K absorption
+  spectra of hydrated metal dichlorides: MgCl2⋅6H2O and SrCl2⋅6H2O.
+  \emph{J.~Chem.\ Phys.} \textbf{1982}, \emph{77}, 681--682\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Shadle \latin{et~al.}(1995)Shadle, Hedman, Hodgson, and
+  Solomon]{shadle95:2259}
+Shadle,~S.~E.; Hedman,~B.; Hodgson,~K.~O.; Solomon,~E.~I. Ligand K-edge x-ray
+  absorption spectroscopic studies: metal-ligand covalency in a series of
+  transition metal tetrachlorides. \emph{J.~Am.\ Chem.\ Soc.} \textbf{1995},
+  \emph{117}, 2259--2272\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Hertlein \latin{et~al.}(2006)Hertlein, Adaniya, Amini, Bressler,
+  Feinberg, Kaiser, Neumann, Prior, and Belkacem]{hertlein06:062715}
+Hertlein,~M.~P.; Adaniya,~H.; Amini,~J.; Bressler,~C.; Feinberg,~B.;
+  Kaiser,~M.; Neumann,~N.; Prior,~M.~H.; Belkacem,~A. Inner-shell ionization of
+  potassium atoms ionized by a femtosecond laser. \emph{Phys.\ Rev.~A}
+  \textbf{2006}, \emph{73}, 062715\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Krause and Oliver(1979)Krause, and Oliver]{Krause79:329}
+Krause,~M.~O.; Oliver,~J.~H. {Natural widths of atomic K and L levels,
+  K$\alpha$ X-ray lines and several KLL Auger lines}. \emph{J. Phys. Chem. Ref.
+  Data} \textbf{1979}, \emph{8}, 329--338\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Miteva \latin{et~al.}(2016)Miteva, Wenzel, Klaiman, Dreuw, and
+  Gokhberg]{miteva16:16671}
+Miteva,~T.; Wenzel,~J.; Klaiman,~S.; Dreuw,~A.; Gokhberg,~K. {X-Ray absorption
+  spectra of microsolvated metal cations}. \emph{Phys.\ Chem.\ Chem.\ Phys.}
+  \textbf{2016}, \emph{18}, 16671--16681\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[C\'eolin \latin{et~al.}(2015)C\'eolin, Marchenko, Guillemin, Journel,
+  Kushawaha, Carniato, Huttula, Rueff, Armen, Piancastelli, and
+  Simon]{ceolin15:022502}
+C\'eolin,~D.; Marchenko,~T.; Guillemin,~R.; Journel,~L.; Kushawaha,~R.~K.;
+  Carniato,~S.; Huttula,~S.-M.; Rueff,~J.~P.; Armen,~G.~B.; Piancastelli,~M.~N.
+  \latin{et~al.}  Auger resonant-Raman study at the Ar K edge as probe of
+  electronic-state-lifetime interferences. \emph{Phys.\ Rev.~A} \textbf{2015},
+  \emph{91}, 022502\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Winter \latin{et~al.}(2004)Winter, Weber, Widdra, Dittmar, Faubel, and
+  Hertel]{winter04:2625}
+Winter,~B.; Weber,~R.; Widdra,~W.; Dittmar,~M.; Faubel,~M.; Hertel,~I.~V. Full
+  Valence Band Photoemission from Liquid Water Using EUV Synchrotron Radiation.
+  \emph{J.~Phys.\ Chem.~A} \textbf{2004}, \emph{108}, 2625--2632\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\end{mcitethebibliography}
