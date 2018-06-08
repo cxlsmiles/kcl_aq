@@ -8,7 +8,7 @@
 \providecommand*\mcitethebibliography{\thebibliography}
 \csname @ifundefined\endcsname{endmcitethebibliography}
   {\let\endmcitethebibliography\endthebibliography}{}
-\begin{mcitethebibliography}{29}
+\begin{mcitethebibliography}{36}
 \providecommand*\natexlab[1]{#1}
 \providecommand*\mciteSetBstSublistMode[1]{}
 \providecommand*\mciteSetBstMaxWidthForm[2]{}
@@ -203,7 +203,7 @@ Goldsztejn,~G.; Marchenko,~T.; Ceolin,~D.; Journel,~L.; Guillemin,~R.;
   Marchenko, Journel, Guillemin, Pilette, Marin, and Simon]{ceolin13:188}
 C\'eolin,~D.; Ablett,~J.; Prieur,~D.; Moreno,~T.; Rueff,~J.-P.; Marchenko,~T.;
   Journel,~L.; Guillemin,~R.; Pilette,~B.; Marin,~T. \latin{et~al.}  Hard X-ray
-  photoelectron spectroscopy on the \{GALAXIES\} beamline at the \{SOLEIL\}
+  photoelectron spectroscopy on the GALAXIES beamline at the SOLEIL
   synchrotron. \emph{J.~Electron~Spectrosc.~Relat.~Phenom.} \textbf{2013},
   \emph{190, Part B}, 188 -- 192\relax
 \mciteBstWouldAddEndPuncttrue
@@ -301,6 +301,73 @@ C\'eolin,~D.; Marchenko,~T.; Guillemin,~R.; Journel,~L.; Kushawaha,~R.~K.;
 Winter,~B.; Weber,~R.; Widdra,~W.; Dittmar,~M.; Faubel,~M.; Hertel,~I.~V. Full
   Valence Band Photoemission from Liquid Water Using EUV Synchrotron Radiation.
   \emph{J.~Phys.\ Chem.~A} \textbf{2004}, \emph{108}, 2625--2632\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Nordlund \latin{et~al.}(2007)Nordlund, Ogasawara, Bluhm, Takahashi,
+  Odelius, Nagasono, Pettersson, and Nilsson]{Nordlund07:217406}
+Nordlund,~D.; Ogasawara,~H.; Bluhm,~H.; Takahashi,~O.; Odelius,~M.;
+  Nagasono,~M.; Pettersson,~L. G.~M.; Nilsson,~A. {Probing the Electron
+  Delocalization in Liquid Water and Ice at Attosecond Time Scales}.
+  \emph{Phys.\ Rev.\ Lett.} \textbf{2007}, \emph{99}, 217406\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Ottosson \latin{et~al.}(2012)Ottosson, \"{O}hrwall, and
+  Bj\"{o}rneholm]{ottosson12:1}
+Ottosson,~N.; \"{O}hrwall,~G.; Bj\"{o}rneholm,~O. {Ultrafast charge
+  delocalization dynamics in aqueous electrolytes: New insights from Auger
+  electron spectroscopy}. \emph{Chem.\ Phys.\ Lett.} \textbf{2012}, \emph{543},
+  1 -- 11\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Bj\"orneholm \latin{et~al.}(1992)Bj\"orneholm, Nilsson, Sandell,
+  Hernn\"as, and Mrtensson]{bjorneholm92:1892}
+Bj\"orneholm,~O.; Nilsson,~A.; Sandell,~A.; Hernn\"as,~B.; Mrtensson,~N.
+  Determination of time scales for charge-transfer screening in physisorbed
+  molecules. \emph{Phys.\ Rev.\ Lett.} \textbf{1992}, \emph{68},
+  1892--1895\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Karis \latin{et~al.}(1996)Karis, Nilsson, Weinelt, Wiell, Puglia,
+  Wassdahl, M\aa{}rtensson, Samant, and St\"ohr]{karis96:1380}
+Karis,~O.; Nilsson,~A.; Weinelt,~M.; Wiell,~T.; Puglia,~C.; Wassdahl,~N.;
+  M\aa{}rtensson,~N.; Samant,~M.; St\"ohr,~J. One-Step and Two-Step Description
+  of Deexcitation Processes in Weakly Interacting Systems. \emph{Phys.\ Rev.\
+  Lett.} \textbf{1996}, \emph{76}, 1380--1383\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Wurth and Menzel(2000)Wurth, and Menzel]{wurth00:141}
+Wurth,~W.; Menzel,~D. Ultrafast electron dynamics at surfaces probed by
+  resonant Auger spectroscopy. \emph{Chem.\ Phys.} \textbf{2000}, \emph{251},
+  141 -- 149\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Br\"uhwiler \latin{et~al.}(2002)Br\"uhwiler, Karis, and
+  M\aa{}rtensson]{bruehwiler02:703}
+Br\"uhwiler,~P.~A.; Karis,~O.; M\aa{}rtensson,~N. Charge-transfer dynamics
+  studied using resonant core spectroscopies. \emph{Rev. Mod. Phys.}
+  \textbf{2002}, \emph{74}, 703--740\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[F\"{o}hlisch \latin{et~al.}(2005)F\"{o}hlisch, Feulner, Hennies, Fink,
+  Menzel, Sanchez-Portal, Echenique, and Wurth]{foehlisch05:373}
+F\"{o}hlisch,~A.; Feulner,~P.; Hennies,~F.; Fink,~A.; Menzel,~D.;
+  Sanchez-Portal,~D.; Echenique,~P.~M.; Wurth,~W. Direct observation of
+  electron dynamics in the attosecond domain. \emph{Nature} \textbf{2005},
+  \emph{436}, 373\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax

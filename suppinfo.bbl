@@ -8,7 +8,7 @@
 \providecommand*\mcitethebibliography{\thebibliography}
 \csname @ifundefined\endcsname{endmcitethebibliography}
   {\let\endmcitethebibliography\endthebibliography}{}
-\begin{mcitethebibliography}{32}
+\begin{mcitethebibliography}{38}
 \providecommand*\natexlab[1]{#1}
 \providecommand*\mciteSetBstSublistMode[1]{}
 \providecommand*\mciteSetBstMaxWidthForm[2]{}
@@ -30,7 +30,7 @@
   Marchenko, Journel, Guillemin, Pilette, Marin, and Simon]{ceolin13:188}
 C\'eolin,~D.; Ablett,~J.; Prieur,~D.; Moreno,~T.; Rueff,~J.-P.; Marchenko,~T.;
   Journel,~L.; Guillemin,~R.; Pilette,~B.; Marin,~T. \latin{et~al.}  Hard X-ray
-  photoelectron spectroscopy on the \{GALAXIES\} beamline at the \{SOLEIL\}
+  photoelectron spectroscopy on the GALAXIES beamline at the SOLEIL
   synchrotron. \emph{J.~Electron~Spectrosc.~Relat.~Phenom.} \textbf{2013},
   \emph{190, Part B}, 188 -- 192\relax
 \mciteBstWouldAddEndPuncttrue
@@ -304,6 +304,17 @@ C\'eolin,~D.; Kryzhevoi,~N.~V.; Nicolas,~C.; Pokapanich,~W.; Choksakulporn,~S.;
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
 \EndOfBibitem
+\bibitem[Guillemin \latin{et~al.}(2015)Guillemin, Sheinerman, P\"uttner,
+  Marchenko, Goldsztejn, Journel, Kushawaha, C\'eolin, Piancastelli, and
+  Simon]{guillemin15:012503}
+Guillemin,~R.; Sheinerman,~S.; P\"uttner,~R.; Marchenko,~T.; Goldsztejn,~G.;
+  Journel,~L.; Kushawaha,~R.~K.; C\'eolin,~D.; Piancastelli,~M.~N.; Simon,~M.
+  Postcollision interaction effects in $KLL$ Auger spectra following argon $1s$
+  photoionization. \emph{Phys.\ Rev.~A} \textbf{2015}, \emph{92}, 012503\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
 \bibitem[Tchaplyguine \latin{et~al.}(2007)Tchaplyguine, Kivim\"aki, Peredkov,
   Sorensen, \"Ohrwall, Schulz, Lundwall, Rander, Lindblad, Rosso, Svensson,
   M{\aa}rtensson, and Bj\"orneholm]{tchaplyguine07:124314}
@@ -329,6 +340,55 @@ F\"{o}hlisch,~A.; Feulner,~P.; Hennies,~F.; Fink,~A.; Menzel,~D.;
   Sanchez-Portal,~D.; Echenique,~P.~M.; Wurth,~W. Direct observation of
   electron dynamics in the attosecond domain. \emph{Nature} \textbf{2005},
   \emph{436}, 373\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Bj\"orneholm \latin{et~al.}(1992)Bj\"orneholm, Nilsson, Sandell,
+  Hernn\"as, and Mrtensson]{bjorneholm92:1892}
+Bj\"orneholm,~O.; Nilsson,~A.; Sandell,~A.; Hernn\"as,~B.; Mrtensson,~N.
+  Determination of time scales for charge-transfer screening in physisorbed
+  molecules. \emph{Phys.\ Rev.\ Lett.} \textbf{1992}, \emph{68},
+  1892--1895\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Karis \latin{et~al.}(1996)Karis, Nilsson, Weinelt, Wiell, Puglia,
+  Wassdahl, M\aa{}rtensson, Samant, and St\"ohr]{karis96:1380}
+Karis,~O.; Nilsson,~A.; Weinelt,~M.; Wiell,~T.; Puglia,~C.; Wassdahl,~N.;
+  M\aa{}rtensson,~N.; Samant,~M.; St\"ohr,~J. One-Step and Two-Step Description
+  of Deexcitation Processes in Weakly Interacting Systems. \emph{Phys.\ Rev.\
+  Lett.} \textbf{1996}, \emph{76}, 1380--1383\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Wurth and Menzel(2000)Wurth, and Menzel]{wurth00:141}
+Wurth,~W.; Menzel,~D. Ultrafast electron dynamics at surfaces probed by
+  resonant Auger spectroscopy. \emph{Chem.\ Phys.} \textbf{2000}, \emph{251},
+  141 -- 149\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Br\"uhwiler \latin{et~al.}(2002)Br\"uhwiler, Karis, and
+  M\aa{}rtensson]{bruehwiler02:703}
+Br\"uhwiler,~P.~A.; Karis,~O.; M\aa{}rtensson,~N. Charge-transfer dynamics
+  studied using resonant core spectroscopies. \emph{Rev. Mod. Phys.}
+  \textbf{2002}, \emph{74}, 703--740\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[C\'eolin \latin{et~al.}(2015)C\'eolin, Marchenko, Guillemin, Journel,
+  Kushawaha, Carniato, Huttula, Rueff, Armen, Piancastelli, and
+  Simon]{ceolin15:022502}
+C\'eolin,~D.; Marchenko,~T.; Guillemin,~R.; Journel,~L.; Kushawaha,~R.~K.;
+  Carniato,~S.; Huttula,~S.-M.; Rueff,~J.~P.; Armen,~G.~B.; Piancastelli,~M.~N.
+  \latin{et~al.}  Auger resonant-Raman study at the Ar K edge as probe of
+  electronic-state-lifetime interferences. \emph{Phys.\ Rev.~A} \textbf{2015},
+  \emph{91}, 022502\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
