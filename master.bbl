@@ -8,7 +8,7 @@
 \providecommand*\mcitethebibliography{\thebibliography}
 \csname @ifundefined\endcsname{endmcitethebibliography}
   {\let\endmcitethebibliography\endthebibliography}{}
-\begin{mcitethebibliography}{36}
+\begin{mcitethebibliography}{47}
 \providecommand*\natexlab[1]{#1}
 \providecommand*\mciteSetBstSublistMode[1]{}
 \providecommand*\mciteSetBstMaxWidthForm[2]{}
@@ -28,8 +28,7 @@
 
 \bibitem[Smith and Saykally(2017)Smith, and Saykally]{smith17:13909}
 Smith,~J.~W.; Saykally,~R.~J. Soft X-ray Absorption Spectroscopy of Liquids and
-  Solutions. \emph{Chem.\ Rev.} \textbf{2017}, \emph{117}, 13909--13934, PMID:
-  29125751\relax
+  Solutions. \emph{Chem.\ Rev.} \textbf{2017}, \emph{117}, 13909--13934\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
@@ -187,6 +186,16 @@ C\'eolin,~D.; Kryzhevoi,~N.~V.; Nicolas,~C.; Pokapanich,~W.; Choksakulporn,~S.;
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
 \EndOfBibitem
+\bibitem[F\"{o}hlisch \latin{et~al.}(2005)F\"{o}hlisch, Feulner, Hennies, Fink,
+  Menzel, Sanchez-Portal, Echenique, and Wurth]{foehlisch05:373}
+F\"{o}hlisch,~A.; Feulner,~P.; Hennies,~F.; Fink,~A.; Menzel,~D.;
+  Sanchez-Portal,~D.; Echenique,~P.~M.; Wurth,~W. Direct observation of
+  electron dynamics in the attosecond domain. \emph{Nature} \textbf{2005},
+  \emph{436}, 373\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
 \bibitem[Goldsztejn \latin{et~al.}(2016)Goldsztejn, Marchenko, Ceolin, Journel,
   Guillemin, Rueff, Kushawaha, Puttner, Piancastelli, and
   Simon]{goldsz16:15133}
@@ -202,9 +211,9 @@ Goldsztejn,~G.; Marchenko,~T.; Ceolin,~D.; Journel,~L.; Guillemin,~R.;
 \bibitem[C\'eolin \latin{et~al.}(2013)C\'eolin, Ablett, Prieur, Moreno, Rueff,
   Marchenko, Journel, Guillemin, Pilette, Marin, and Simon]{ceolin13:188}
 C\'eolin,~D.; Ablett,~J.; Prieur,~D.; Moreno,~T.; Rueff,~J.-P.; Marchenko,~T.;
-  Journel,~L.; Guillemin,~R.; Pilette,~B.; Marin,~T. \latin{et~al.}  Hard X-ray
-  photoelectron spectroscopy on the GALAXIES beamline at the SOLEIL
-  synchrotron. \emph{J.~Electron~Spectrosc.~Relat.~Phenom.} \textbf{2013},
+  Journel,~L.; Guillemin,~R.; Pilette,~B.; Marin,~T. \latin{et~al.}  Hard X-Ray
+  Photoelectron Spectroscopy on the GALAXIES Beamline at the SOLEIL
+  Synchrotron. \emph{J.~Electron~Spectrosc.~Relat.~Phenom.} \textbf{2013},
   \emph{190, Part B}, 188 -- 192\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
@@ -214,8 +223,8 @@ C\'eolin,~D.; Ablett,~J.; Prieur,~D.; Moreno,~T.; Rueff,~J.-P.; Marchenko,~T.;
   Bal{\'{e}}dent, Lassalle-Kaiser, Rault, Simon, and Shukla]{rueff15:175}
 Rueff,~J.-P.; Ablett,~J.~M.; C{\'{e}}olin,~D.; Prieur,~D.; Moreno,~T.;
   Bal{\'{e}}dent,~V.; Lassalle-Kaiser,~B.; Rault,~J.~E.; Simon,~M.; Shukla,~A.
-  {The GALAXIES beamline at the SOLEIL synchrotron: inelastic X-ray scattering
-  and photoelectron spectroscopy in the hard X-ray range}. \emph{J. Synchrotron
+  {The GALAXIES Beamline at the SOLEIL Synchrotron: Inelastic X-Ray Scattering
+  and Photoelectron Spectroscopy in the Hard X-Ray Range}. \emph{J. Synchrotron
   Rad.} \textbf{2015}, \emph{22}, 175--179\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
@@ -241,7 +250,7 @@ Guillemin,~R.; Sheinerman,~S.; P\"uttner,~R.; Marchenko,~T.; Goldsztejn,~G.;
 \EndOfBibitem
 \bibitem[Sugiura(1982)]{sugiura82:681}
 Sugiura,~C. Influence of coordinating water on the chlorine K absorption
-  spectra of hydrated metal dichlorides: MgCl2⋅6H2O and SrCl2⋅6H2O.
+  spectra of hydrated metal dichlorides: MgCl$_2$.6H$_2$O and SrCl$_2$.6H$_2$O.
   \emph{J.~Chem.\ Phys.} \textbf{1982}, \emph{77}, 681--682\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
@@ -275,11 +284,125 @@ Krause,~M.~O.; Oliver,~J.~H. {Natural widths of atomic K and L levels,
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
 \EndOfBibitem
+\bibitem[Schirmer(1982)]{sch82:2395}
+Schirmer,~J. Beyond the random-phase approximation: A new approximation scheme
+  for the polarization propagator. \emph{Phys.\ Rev.~A} \textbf{1982},
+  \emph{26}, 2395--2416\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Barth and Schirmer(1985)Barth, and Schirmer]{bar85:867}
+Barth,~A.; Schirmer,~J. Theoretical core-level excitation spectra of N$_2$ and
+  CO by a new polarisation propagator method. \emph{J.~Phys.~B~At.\ Mol.\ Opt.\
+  Phys.} \textbf{1985}, \emph{18}, 867\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Cederbaum \latin{et~al.}(1980)Cederbaum, Domcke, and
+  Schirmer]{ced80:206}
+Cederbaum,~L.~S.; Domcke,~W.; Schirmer,~J. Many-body theory of core holes.
+  \emph{Phys.\ Rev.~A} \textbf{1980}, \emph{22}, 206--222\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Barth and Cederbaum(1981)Barth, and Cederbaum]{ced81:1038}
+Barth,~A.; Cederbaum,~L.~S. Many-body theory of core-valence excitations.
+  \emph{Phys.\ Rev.~A} \textbf{1981}, \emph{23}, 1038--1061\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Wenzel \latin{et~al.}(2014)Wenzel, Wormit, and Dreuw]{Wenzel14:1900}
+Wenzel,~J.; Wormit,~M.; Dreuw,~A. Calculating core-level excitations and x-ray
+  absorption spectra of medium-sized closed-shell molecules with the
+  algebraic-diagrammatic construction scheme for the polarization propagator.
+  \emph{J.~Comp.\ Chem.} \textbf{2014}, \emph{35}, 1900--1915\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Wenzel \latin{et~al.}(2014)Wenzel, Wormit, and Dreuw]{Wenzel14:4583}
+Wenzel,~J.; Wormit,~M.; Dreuw,~A. Calculating X-ray Absorption Spectra of
+  Open-Shell Molecules with the Unrestricted Algebraic-Diagrammatic
+  Construction Scheme for the Polarization Propagator. \emph{J.\ Chem.\ Theory\
+  Comput.} \textbf{2014}, \emph{10}, 4583--4598\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Wormit \latin{et~al.}(2014)Wormit, Rehn, Harbach, Wenzel, Krauter,
+  Epifanovsky, and Dreuw]{Wormit14:774}
+Wormit,~M.; Rehn,~D.~R.; Harbach,~P.~H.; Wenzel,~J.; Krauter,~C.~M.;
+  Epifanovsky,~E.; Dreuw,~A. Investigating excited electronic states using the
+  algebraic diagrammatic construction (ADC) approach of the polarisation
+  propagator. \emph{Mol.\ Phys.} \textbf{2014}, \emph{112}, 774--784\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Shao \latin{et~al.}(2015)Shao, Gan, Epifanovsky, Gilbert, Wormit,
+  Kussmann, Lange, Behn, Deng, Feng, Ghosh, Goldey, Horn, Jacobson, Kaliman,
+  Khaliullin, Ku\'{s}, Landau, Liu, Proynov, Rhee, Richard, Rohrdanz, Steele,
+  Sundstrom, Woodcock, Zimmerman, Zuev, Albrecht, Alguire, Austin, Beran,
+  Bernard, Berquist, Brandhorst, Bravaya, Brown, Casanova, Chang, Chen, Chien,
+  Closser, Crittenden, Diedenhofen, DiStasio, Do, Dutoi, Edgar, Fatehi,
+  Fusti-Molnar, Ghysels, Golubeva-Zadorozhnaya, Gomes, Hanson-Heine, Harbach,
+  Hauser, Hohenstein, Holden, Jagau, Ji, Kaduk, Khistyaev, Kim, Kim, King,
+  Klunzinger, Kosenkov, Kowalczyk, Krauter, Lao, Laurent, Lawler, Levchenko,
+  Lin, Liu, Livshits, Lochan, Luenser, Manohar, Manzer, Mao, Mardirossian,
+  Marenich, Maurer, Mayhall, Neuscamman, Oana, Olivares-Amaya, O’Neill,
+  Parkhill, Perrine, Peverati, Prociuk, Rehn, Rosta, Russ, Sharada, Sharma,
+  Small, Sodt, Stein, St\"uck, Su, Thom, Tsuchimochi, Vanovschi, Vogt, Vydrov,
+  Wang, Watson, Wenzel, White, Williams, Yang, Yeganeh, Yost, You, Zhang,
+  Zhang, Zhao, Brooks, Chan, Chipman, Cramer, Goddard, Gordon, Hehre, Klamt,
+  Schaefer, Schmidt, Sherrill, Truhlar, Warshel, Xu, Aspuru-Guzik, Baer, Bell,
+  Besley, Chai, Dreuw, Dunietz, Furlani, Gwaltney, Hsu, Jung, Kong, Lambrecht,
+  Liang, Ochsenfeld, Rassolov, Slipchenko, Subotnik, Van~Voorhis, Herbert,
+  Krylov, Gill, and Head-Gordon]{QChem2015}
+Shao,~Y.; Gan,~Z.; Epifanovsky,~E.; Gilbert,~A.~T.; Wormit,~M.; Kussmann,~J.;
+  Lange,~A.~W.; Behn,~A.; Deng,~J.; Feng,~X. \latin{et~al.}  Advances in
+  molecular quantum chemistry contained in the Q-Chem 4 program package.
+  \emph{Mol.\ Phys.} \textbf{2015}, \emph{113}, 184--215\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
 \bibitem[Miteva \latin{et~al.}(2016)Miteva, Wenzel, Klaiman, Dreuw, and
   Gokhberg]{miteva16:16671}
 Miteva,~T.; Wenzel,~J.; Klaiman,~S.; Dreuw,~A.; Gokhberg,~K. {X-Ray absorption
   spectra of microsolvated metal cations}. \emph{Phys.\ Chem.\ Chem.\ Phys.}
   \textbf{2016}, \emph{18}, 16671--16681\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Brooks \latin{et~al.}(1980)Brooks, Laidig, Saxe, Handy, and
+  Schaefer~III]{GUGA_PhysScr_21}
+Brooks,~B.~R.; Laidig,~W.~D.; Saxe,~P.; Handy,~N.~C.; Schaefer~III,~H.~F. {The
+  Loop-Driven Graphical Unitary Group Approach: A Powerful Method for the
+  Variational Description of Electron Correlation}. \emph{Phys. Scr.}
+  \textbf{1980}, \emph{21}, 312\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Brooks and Schaefer(1979)Brooks, and Schaefer]{GUGA_JCP_70}
+Brooks,~B.~R.; Schaefer,~H.~F. {The graphical unitary group approach to the
+  electron correlation problem. Methods and preliminary applications}.
+  \emph{J.~Chem.\ Phys.} \textbf{1979}, \emph{70}, 5092--5106\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Schmidt \latin{et~al.}(1993)Schmidt, Baldridge, Boatz, Elbert, Gordon,
+  Jensen, Koseki, Matsunaga, Nguyen, Su, Windus, Dupuis, and Montgomery]{GUS}
+Schmidt,~M.~W.; Baldridge,~K.~K.; Boatz,~J.~A.; Elbert,~S.~T.; Gordon,~M.~S.;
+  Jensen,~J.~H.; Koseki,~S.; Matsunaga,~N.; Nguyen,~K.~A.; Su,~S.
+  \latin{et~al.}  {General atomic and molecular electronic structure system}.
+  \emph{J.~Comp.\ Chem.} \textbf{1993}, \emph{14}, 1347--1363\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
@@ -358,16 +481,6 @@ Wurth,~W.; Menzel,~D. Ultrafast electron dynamics at surfaces probed by
 Br\"uhwiler,~P.~A.; Karis,~O.; M\aa{}rtensson,~N. Charge-transfer dynamics
   studied using resonant core spectroscopies. \emph{Rev. Mod. Phys.}
   \textbf{2002}, \emph{74}, 703--740\relax
-\mciteBstWouldAddEndPuncttrue
-\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
-{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
-\EndOfBibitem
-\bibitem[F\"{o}hlisch \latin{et~al.}(2005)F\"{o}hlisch, Feulner, Hennies, Fink,
-  Menzel, Sanchez-Portal, Echenique, and Wurth]{foehlisch05:373}
-F\"{o}hlisch,~A.; Feulner,~P.; Hennies,~F.; Fink,~A.; Menzel,~D.;
-  Sanchez-Portal,~D.; Echenique,~P.~M.; Wurth,~W. Direct observation of
-  electron dynamics in the attosecond domain. \emph{Nature} \textbf{2005},
-  \emph{436}, 373\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax

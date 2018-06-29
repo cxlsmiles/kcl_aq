@@ -2,4 +2,15 @@ This is BibTeX, Version 0.99dThe top-level auxiliary file: suppinfo.aux
 The style file: achemso.bst
 Database file #1: acs-suppinfo.bib
 Database file #2: F:/Articles/bibliography/Bibliography.bib
+You're missing a field name---line 2995 of file F:/Articles/bibliography/Bibliography.bib
+ : 
+ : %    note ={PMID: 16608177}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 5050 of file F:/Articles/bibliography/Bibliography.bib
+ : 
+ : %note ={PMID: 29125751},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
 achemso 2017/05/18 v3.10i
+(There were 2 error messages)

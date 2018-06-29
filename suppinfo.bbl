@@ -8,7 +8,7 @@
 \providecommand*\mcitethebibliography{\thebibliography}
 \csname @ifundefined\endcsname{endmcitethebibliography}
   {\let\endmcitethebibliography\endthebibliography}{}
-\begin{mcitethebibliography}{38}
+\begin{mcitethebibliography}{40}
 \providecommand*\natexlab[1]{#1}
 \providecommand*\mciteSetBstSublistMode[1]{}
 \providecommand*\mciteSetBstMaxWidthForm[2]{}
@@ -29,9 +29,9 @@
 \bibitem[C\'eolin \latin{et~al.}(2013)C\'eolin, Ablett, Prieur, Moreno, Rueff,
   Marchenko, Journel, Guillemin, Pilette, Marin, and Simon]{ceolin13:188}
 C\'eolin,~D.; Ablett,~J.; Prieur,~D.; Moreno,~T.; Rueff,~J.-P.; Marchenko,~T.;
-  Journel,~L.; Guillemin,~R.; Pilette,~B.; Marin,~T. \latin{et~al.}  Hard X-ray
-  photoelectron spectroscopy on the GALAXIES beamline at the SOLEIL
-  synchrotron. \emph{J.~Electron~Spectrosc.~Relat.~Phenom.} \textbf{2013},
+  Journel,~L.; Guillemin,~R.; Pilette,~B.; Marin,~T. \latin{et~al.}  Hard X-Ray
+  Photoelectron Spectroscopy on the GALAXIES Beamline at the SOLEIL
+  Synchrotron. \emph{J.~Electron~Spectrosc.~Relat.~Phenom.} \textbf{2013},
   \emph{190, Part B}, 188 -- 192\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
@@ -41,8 +41,8 @@ C\'eolin,~D.; Ablett,~J.; Prieur,~D.; Moreno,~T.; Rueff,~J.-P.; Marchenko,~T.;
   Bal{\'{e}}dent, Lassalle-Kaiser, Rault, Simon, and Shukla]{rueff15:175}
 Rueff,~J.-P.; Ablett,~J.~M.; C{\'{e}}olin,~D.; Prieur,~D.; Moreno,~T.;
   Bal{\'{e}}dent,~V.; Lassalle-Kaiser,~B.; Rault,~J.~E.; Simon,~M.; Shukla,~A.
-  {The GALAXIES beamline at the SOLEIL synchrotron: inelastic X-ray scattering
-  and photoelectron spectroscopy in the hard X-ray range}. \emph{J. Synchrotron
+  {The GALAXIES Beamline at the SOLEIL Synchrotron: Inelastic X-Ray Scattering
+  and Photoelectron Spectroscopy in the Hard X-Ray Range}. \emph{J. Synchrotron
   Rad.} \textbf{2015}, \emph{22}, 175--179\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
@@ -57,10 +57,52 @@ Faubel,~M.; Schlemmer,~S.; Toennies,~J.~P. A molecular beam study of the
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
 \EndOfBibitem
+\bibitem[C\'eolin \latin{et~al.}(2015)C\'eolin, Marchenko, Guillemin, Journel,
+  Kushawaha, Carniato, Huttula, Rueff, Armen, Piancastelli, and
+  Simon]{ceolin15:022502}
+C\'eolin,~D.; Marchenko,~T.; Guillemin,~R.; Journel,~L.; Kushawaha,~R.~K.;
+  Carniato,~S.; Huttula,~S.-M.; Rueff,~J.~P.; Armen,~G.~B.; Piancastelli,~M.~N.
+  \latin{et~al.}  Auger resonant-Raman study at the Ar K edge as probe of
+  electronic-state-lifetime interferences. \emph{Phys.\ Rev.~A} \textbf{2015},
+  \emph{91}, 022502\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Goldsztejn \latin{et~al.}(2016)Goldsztejn, Marchenko, Ceolin, Journel,
+  Guillemin, Rueff, Kushawaha, Puttner, Piancastelli, and
+  Simon]{goldsz16:15133}
+Goldsztejn,~G.; Marchenko,~T.; Ceolin,~D.; Journel,~L.; Guillemin,~R.;
+  Rueff,~J.-P.; Kushawaha,~R.~K.; Puttner,~R.; Piancastelli,~M.~N.; Simon,~M.
+  Electronic state-lifetime interference in resonant Auger spectra: a tool to
+  disentangle overlapping core-excited states. \emph{Phys.\ Chem.\ Chem.\
+  Phys.} \textbf{2016}, \emph{18}, 15133--15142\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Guillemin \latin{et~al.}(2015)Guillemin, Sheinerman, P\"uttner,
+  Marchenko, Goldsztejn, Journel, Kushawaha, C\'eolin, Piancastelli, and
+  Simon]{guillemin15:012503}
+Guillemin,~R.; Sheinerman,~S.; P\"uttner,~R.; Marchenko,~T.; Goldsztejn,~G.;
+  Journel,~L.; Kushawaha,~R.~K.; C\'eolin,~D.; Piancastelli,~M.~N.; Simon,~M.
+  Postcollision interaction effects in $KLL$ Auger spectra following argon $1s$
+  photoionization. \emph{Phys.\ Rev.~A} \textbf{2015}, \emph{92}, 012503\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Piancastelli(2013)]{piancastelli13:2035}
+Piancastelli,~M.~N. K-shell double core-hole spectroscopy in molecules.
+  \emph{The European Physical Journal Special Topics} \textbf{2013},
+  \emph{222}, 2035--2055\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
 \bibitem[Winter and Faubel(2006)Winter, and Faubel]{winter06:1176}
 Winter,~B.; Faubel,~M. Photoemission from Liquid Aqueous Solutions.
-  \emph{Chem.\ Rev.} \textbf{2006}, \emph{106}, 1176--1211, PMID:
-  16608177\relax
+  \emph{Chem.\ Rev.} \textbf{2006}, \emph{106}, 1176--1211\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
@@ -91,7 +133,7 @@ Ma,~H. Hydration structure of Na$^{+}$, K$^{+}$, F$^{-}$, and Cl$^{-}$ in
 \EndOfBibitem
 \bibitem[Krishnan \latin{et~al.}(1980)Krishnan, Binkley, Seeger, and
   Pople]{Krishnan80:650}
-Krishnan,~R.; Binkley,~J.~S.; Seeger,~R.; Pople,~J.~A. Self‐consistent
+Krishnan,~R.; Binkley,~J.~S.; Seeger,~R.; Pople,~J.~A. Self-consistent
   molecular orbital methods. XX. A basis set for correlated wave functions.
   \emph{J.~Chem.\ Phys.} \textbf{1980}, \emph{72}, 650--654\relax
 \mciteBstWouldAddEndPuncttrue
@@ -230,7 +272,7 @@ Shao,~Y.; Gan,~Z.; Epifanovsky,~E.; Gilbert,~A.~T.; Wormit,~M.; Kussmann,~J.;
 \EndOfBibitem
 \bibitem[McLean and Chandler(1980)McLean, and Chandler]{McLean80:5639}
 McLean,~A.~D.; Chandler,~G.~S. Contracted Gaussian basis sets for molecular
-  calculations. I. Second row atoms, Z=11–18. \emph{J.~Chem.\ Phys.}
+  calculations. I. Second row atoms, Z=11-18. \emph{J.~Chem.\ Phys.}
   \textbf{1980}, \emph{72}, 5639--5648\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
@@ -304,17 +346,6 @@ C\'eolin,~D.; Kryzhevoi,~N.~V.; Nicolas,~C.; Pokapanich,~W.; Choksakulporn,~S.;
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
 \EndOfBibitem
-\bibitem[Guillemin \latin{et~al.}(2015)Guillemin, Sheinerman, P\"uttner,
-  Marchenko, Goldsztejn, Journel, Kushawaha, C\'eolin, Piancastelli, and
-  Simon]{guillemin15:012503}
-Guillemin,~R.; Sheinerman,~S.; P\"uttner,~R.; Marchenko,~T.; Goldsztejn,~G.;
-  Journel,~L.; Kushawaha,~R.~K.; C\'eolin,~D.; Piancastelli,~M.~N.; Simon,~M.
-  Postcollision interaction effects in $KLL$ Auger spectra following argon $1s$
-  photoionization. \emph{Phys.\ Rev.~A} \textbf{2015}, \emph{92}, 012503\relax
-\mciteBstWouldAddEndPuncttrue
-\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
-{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
-\EndOfBibitem
 \bibitem[Tchaplyguine \latin{et~al.}(2007)Tchaplyguine, Kivim\"aki, Peredkov,
   Sorensen, \"Ohrwall, Schulz, Lundwall, Rander, Lindblad, Rosso, Svensson,
   M{\aa}rtensson, and Bj\"orneholm]{tchaplyguine07:124314}
@@ -377,18 +408,6 @@ Wurth,~W.; Menzel,~D. Ultrafast electron dynamics at surfaces probed by
 Br\"uhwiler,~P.~A.; Karis,~O.; M\aa{}rtensson,~N. Charge-transfer dynamics
   studied using resonant core spectroscopies. \emph{Rev. Mod. Phys.}
   \textbf{2002}, \emph{74}, 703--740\relax
-\mciteBstWouldAddEndPuncttrue
-\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
-{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
-\EndOfBibitem
-\bibitem[C\'eolin \latin{et~al.}(2015)C\'eolin, Marchenko, Guillemin, Journel,
-  Kushawaha, Carniato, Huttula, Rueff, Armen, Piancastelli, and
-  Simon]{ceolin15:022502}
-C\'eolin,~D.; Marchenko,~T.; Guillemin,~R.; Journel,~L.; Kushawaha,~R.~K.;
-  Carniato,~S.; Huttula,~S.-M.; Rueff,~J.~P.; Armen,~G.~B.; Piancastelli,~M.~N.
-  \latin{et~al.}  Auger resonant-Raman study at the Ar K edge as probe of
-  electronic-state-lifetime interferences. \emph{Phys.\ Rev.~A} \textbf{2015},
-  \emph{91}, 022502\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax

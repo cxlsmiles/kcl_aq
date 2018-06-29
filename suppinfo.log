@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.30)  7 JUN 2018 10:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.30)  27 JUN 2018 17:26
 entering extended mode
 **./suppinfo.tex
 (suppinfo.tex
@@ -634,68 +634,67 @@ Package epstopdf Info: Source file: <figures/rad_dens_kcl.eps>
 (epstopdf)                    size: 58816 bytes
 (epstopdf)             Command: <epstopdf --outfile=figures/rad_dens_kcl-eps-co
 nverted-to.pdf figures/rad_dens_kcl.eps>
-(epstopdf)             \includegraphics on input line 159.
+(epstopdf)             \includegraphics on input line 160.
 Package epstopdf Info: Output file is already uptodate.
 <figures/rad_dens_kcl-eps-converted-to.pdf, id=35, pagebox=cropbox, 418.56375pt
  x 412.54124pt>
 File: figures/rad_dens_kcl-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/rad_dens_kcl-eps-converted-to.pdf>
 Package pdftex.def Info: figures/rad_dens_kcl-eps-converted-to.pdf  used on inp
-ut line 159. on input line 159.
+ut line 160. on input line 160.
 Package pdftex.def Info: Requested size: 334.85144pt x 330.03345pt on input lin
-e 159.
+e 160.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[6]
-<figures/partial_cross_sec_ct_time.pdf, id=39, pagebox=cropbox, 529.98pt x 269.
+[6] [7 <./figures/rad_dens_kcl-eps-converted-to.pdf>]
+<figures/partial_cross_sec_ct_time.pdf, id=47, pagebox=cropbox, 529.98pt x 269.
 005pt>
 File: figures/partial_cross_sec_ct_time.pdf Graphic file (type pdf)
 <use figures/partial_cross_sec_ct_time.pdf>
 Package pdftex.def Info: figures/partial_cross_sec_ct_time.pdf  used on input l
-ine 169. on input line 169.
+ine 173. on input line 173.
 Package pdftex.def Info: Requested size: 476.97757pt x 242.10225pt on input lin
-e 169.
+e 173.
 
-Overfull \hbox (7.22218pt too wide) in paragraph at lines 169--170
+Overfull \hbox (7.22218pt too wide) in paragraph at lines 173--174
  [][] 
  []
 
-[7 <./figures/rad_dens_kcl-eps-converted-to.pdf>] [8 <./figures/partial_cross_s
-ec_ct_time.pdf>] [9] (suppinfo.bbl [10] [11] [12] [13]) [14] (suppinfo.aux) ) 
+[8 <./figures/partial_cross_sec_ct_time.pdf>] [9] (suppinfo.bbl [10] [11]
+[12] [13]) [14] (suppinfo.aux) ) 
 Here is how much of TeX's memory you used:
- 14556 strings out of 493312
- 272603 string characters out of 3138898
- 333459 words of memory out of 3000000
- 17967 multiletter control sequences out of 15000+200000
+ 14564 strings out of 493312
+ 272829 string characters out of 3138898
+ 334939 words of memory out of 3000000
+ 17975 multiletter control sequences out of 15000+200000
  547785 words of font info for 59 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,9n,94p,10410b,493s stack positions out of 5000i,500n,10000p,200000b,50000s
- <
-C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx
-1200.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\d
-pi600\ecti1440.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jkn
-appen\ec\dpi600\ecrm0800.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\
-ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9
-\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1728.pk> <C:\Users\cxl_2\AppData\Local\
-MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1200.pk> <C:\Users\cxl_2\AppD
-ata\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1200.pk> <C:\Users\
-cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1000.pk> 
-<C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecs
-s1440.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\
-dpi600\ecsx2074.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jk
-nappen\ec\dpi600\ecrm1200.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.
-pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/P
-rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on suppinfo.pdf (14 pages, 291709 bytes).
+ 60i,9n,94p,10410b,495s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts
+\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX
+\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1440.pk> <C:\Users\cxl_2\AppData\Lo
+cal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0800.pk> <C:\Users\cxl_2\
+AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:\Us
+ers\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1728.
+pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
+\ecss1200.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen
+\ec\dpi600\ecti1200.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\fonts\pk\ljfou
+r\jknappen\ec\dpi600\ecss1000.pk> <C:\Users\cxl_2\AppData\Local\MiKTeX\2.9\font
+s\pk\ljfour\jknappen\ec\dpi600\ecss1440.pk> <C:\Users\cxl_2\AppData\Local\MiKTe
+X\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx2074.pk> <C:\Users\cxl_2\AppData\L
+ocal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk><C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on suppinfo.pdf (14 pages, 293454 bytes).
 PDF statistics:
- 461 PDF objects out of 1000 (max. 8388607)
+ 462 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
