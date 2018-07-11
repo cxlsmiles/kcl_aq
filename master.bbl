@@ -8,7 +8,7 @@
 \providecommand*\mcitethebibliography{\thebibliography}
 \csname @ifundefined\endcsname{endmcitethebibliography}
   {\let\endmcitethebibliography\endthebibliography}{}
-\begin{mcitethebibliography}{47}
+\begin{mcitethebibliography}{46}
 \providecommand*\natexlab[1]{#1}
 \providecommand*\mciteSetBstSublistMode[1]{}
 \providecommand*\mciteSetBstMaxWidthForm[2]{}
@@ -248,42 +248,6 @@ Guillemin,~R.; Sheinerman,~S.; P\"uttner,~R.; Marchenko,~T.; Goldsztejn,~G.;
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
 \EndOfBibitem
-\bibitem[Sugiura(1982)]{sugiura82:681}
-Sugiura,~C. Influence of coordinating water on the chlorine K absorption
-  spectra of hydrated metal dichlorides: MgCl$_2$.6H$_2$O and SrCl$_2$.6H$_2$O.
-  \emph{J.~Chem.\ Phys.} \textbf{1982}, \emph{77}, 681--682\relax
-\mciteBstWouldAddEndPuncttrue
-\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
-{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
-\EndOfBibitem
-\bibitem[Shadle \latin{et~al.}(1995)Shadle, Hedman, Hodgson, and
-  Solomon]{shadle95:2259}
-Shadle,~S.~E.; Hedman,~B.; Hodgson,~K.~O.; Solomon,~E.~I. Ligand K-edge x-ray
-  absorption spectroscopic studies: metal-ligand covalency in a series of
-  transition metal tetrachlorides. \emph{J.~Am.\ Chem.\ Soc.} \textbf{1995},
-  \emph{117}, 2259--2272\relax
-\mciteBstWouldAddEndPuncttrue
-\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
-{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
-\EndOfBibitem
-\bibitem[Hertlein \latin{et~al.}(2006)Hertlein, Adaniya, Amini, Bressler,
-  Feinberg, Kaiser, Neumann, Prior, and Belkacem]{hertlein06:062715}
-Hertlein,~M.~P.; Adaniya,~H.; Amini,~J.; Bressler,~C.; Feinberg,~B.;
-  Kaiser,~M.; Neumann,~N.; Prior,~M.~H.; Belkacem,~A. Inner-shell ionization of
-  potassium atoms ionized by a femtosecond laser. \emph{Phys.\ Rev.~A}
-  \textbf{2006}, \emph{73}, 062715\relax
-\mciteBstWouldAddEndPuncttrue
-\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
-{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
-\EndOfBibitem
-\bibitem[Krause and Oliver(1979)Krause, and Oliver]{Krause79:329}
-Krause,~M.~O.; Oliver,~J.~H. {Natural widths of atomic K and L levels,
-  K$\alpha$ X-ray lines and several KLL Auger lines}. \emph{J. Phys. Chem. Ref.
-  Data} \textbf{1979}, \emph{8}, 329--338\relax
-\mciteBstWouldAddEndPuncttrue
-\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
-{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
-\EndOfBibitem
 \bibitem[Schirmer(1982)]{sch82:2395}
 Schirmer,~J. Beyond the random-phase approximation: A new approximation scheme
   for the polarization propagator. \emph{Phys.\ Rev.~A} \textbf{1982},
@@ -379,6 +343,18 @@ Miteva,~T.; Wenzel,~J.; Klaiman,~S.; Dreuw,~A.; Gokhberg,~K. {X-Ray absorption
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
 \EndOfBibitem
+\bibitem[C\'eolin \latin{et~al.}(2015)C\'eolin, Marchenko, Guillemin, Journel,
+  Kushawaha, Carniato, Huttula, Rueff, Armen, Piancastelli, and
+  Simon]{ceolin15:022502}
+C\'eolin,~D.; Marchenko,~T.; Guillemin,~R.; Journel,~L.; Kushawaha,~R.~K.;
+  Carniato,~S.; Huttula,~S.-M.; Rueff,~J.~P.; Armen,~G.~B.; Piancastelli,~M.~N.
+  \latin{et~al.}  Auger resonant-Raman study at the Ar K edge as probe of
+  electronic-state-lifetime interferences. \emph{Phys.\ Rev.~A} \textbf{2015},
+  \emph{91}, 022502\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
 \bibitem[Brooks \latin{et~al.}(1980)Brooks, Laidig, Saxe, Handy, and
   Schaefer~III]{GUGA_PhysScr_21}
 Brooks,~B.~R.; Laidig,~W.~D.; Saxe,~P.; Handy,~N.~C.; Schaefer~III,~H.~F. {The
@@ -407,14 +383,20 @@ Schmidt,~M.~W.; Baldridge,~K.~K.; Boatz,~J.~A.; Elbert,~S.~T.; Gordon,~M.~S.;
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
 \EndOfBibitem
-\bibitem[C\'eolin \latin{et~al.}(2015)C\'eolin, Marchenko, Guillemin, Journel,
-  Kushawaha, Carniato, Huttula, Rueff, Armen, Piancastelli, and
-  Simon]{ceolin15:022502}
-C\'eolin,~D.; Marchenko,~T.; Guillemin,~R.; Journel,~L.; Kushawaha,~R.~K.;
-  Carniato,~S.; Huttula,~S.-M.; Rueff,~J.~P.; Armen,~G.~B.; Piancastelli,~M.~N.
-  \latin{et~al.}  Auger resonant-Raman study at the Ar K edge as probe of
-  electronic-state-lifetime interferences. \emph{Phys.\ Rev.~A} \textbf{2015},
-  \emph{91}, 022502\relax
+\bibitem[Sugiura(1982)]{sugiura82:681}
+Sugiura,~C. Influence of coordinating water on the chlorine K absorption
+  spectra of hydrated metal dichlorides: MgCl$_2$.6H$_2$O and SrCl$_2$.6H$_2$O.
+  \emph{J.~Chem.\ Phys.} \textbf{1982}, \emph{77}, 681--682\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Shadle \latin{et~al.}(1995)Shadle, Hedman, Hodgson, and
+  Solomon]{shadle95:2259}
+Shadle,~S.~E.; Hedman,~B.; Hodgson,~K.~O.; Solomon,~E.~I. Ligand K-edge x-ray
+  absorption spectroscopic studies: metal-ligand covalency in a series of
+  transition metal tetrachlorides. \emph{J.~Am.\ Chem.\ Soc.} \textbf{1995},
+  \emph{117}, 2259--2272\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
@@ -424,6 +406,14 @@ C\'eolin,~D.; Marchenko,~T.; Guillemin,~R.; Journel,~L.; Kushawaha,~R.~K.;
 Winter,~B.; Weber,~R.; Widdra,~W.; Dittmar,~M.; Faubel,~M.; Hertel,~I.~V. Full
   Valence Band Photoemission from Liquid Water Using EUV Synchrotron Radiation.
   \emph{J.~Phys.\ Chem.~A} \textbf{2004}, \emph{108}, 2625--2632\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Krause and Oliver(1979)Krause, and Oliver]{Krause79:329}
+Krause,~M.~O.; Oliver,~J.~H. {Natural widths of atomic K and L levels,
+  K$\alpha$ X-ray lines and several KLL Auger lines}. \emph{J. Phys. Chem. Ref.
+  Data} \textbf{1979}, \emph{8}, 329--338\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax

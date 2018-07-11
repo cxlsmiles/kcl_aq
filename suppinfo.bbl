@@ -8,7 +8,7 @@
 \providecommand*\mcitethebibliography{\thebibliography}
 \csname @ifundefined\endcsname{endmcitethebibliography}
   {\let\endmcitethebibliography\endthebibliography}{}
-\begin{mcitethebibliography}{40}
+\begin{mcitethebibliography}{36}
 \providecommand*\natexlab[1]{#1}
 \providecommand*\mciteSetBstSublistMode[1]{}
 \providecommand*\mciteSetBstMaxWidthForm[2]{}
@@ -371,43 +371,6 @@ F\"{o}hlisch,~A.; Feulner,~P.; Hennies,~F.; Fink,~A.; Menzel,~D.;
   Sanchez-Portal,~D.; Echenique,~P.~M.; Wurth,~W. Direct observation of
   electron dynamics in the attosecond domain. \emph{Nature} \textbf{2005},
   \emph{436}, 373\relax
-\mciteBstWouldAddEndPuncttrue
-\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
-{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
-\EndOfBibitem
-\bibitem[Bj\"orneholm \latin{et~al.}(1992)Bj\"orneholm, Nilsson, Sandell,
-  Hernn\"as, and Mrtensson]{bjorneholm92:1892}
-Bj\"orneholm,~O.; Nilsson,~A.; Sandell,~A.; Hernn\"as,~B.; Mrtensson,~N.
-  Determination of time scales for charge-transfer screening in physisorbed
-  molecules. \emph{Phys.\ Rev.\ Lett.} \textbf{1992}, \emph{68},
-  1892--1895\relax
-\mciteBstWouldAddEndPuncttrue
-\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
-{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
-\EndOfBibitem
-\bibitem[Karis \latin{et~al.}(1996)Karis, Nilsson, Weinelt, Wiell, Puglia,
-  Wassdahl, M\aa{}rtensson, Samant, and St\"ohr]{karis96:1380}
-Karis,~O.; Nilsson,~A.; Weinelt,~M.; Wiell,~T.; Puglia,~C.; Wassdahl,~N.;
-  M\aa{}rtensson,~N.; Samant,~M.; St\"ohr,~J. One-Step and Two-Step Description
-  of Deexcitation Processes in Weakly Interacting Systems. \emph{Phys.\ Rev.\
-  Lett.} \textbf{1996}, \emph{76}, 1380--1383\relax
-\mciteBstWouldAddEndPuncttrue
-\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
-{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
-\EndOfBibitem
-\bibitem[Wurth and Menzel(2000)Wurth, and Menzel]{wurth00:141}
-Wurth,~W.; Menzel,~D. Ultrafast electron dynamics at surfaces probed by
-  resonant Auger spectroscopy. \emph{Chem.\ Phys.} \textbf{2000}, \emph{251},
-  141 -- 149\relax
-\mciteBstWouldAddEndPuncttrue
-\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
-{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
-\EndOfBibitem
-\bibitem[Br\"uhwiler \latin{et~al.}(2002)Br\"uhwiler, Karis, and
-  M\aa{}rtensson]{bruehwiler02:703}
-Br\"uhwiler,~P.~A.; Karis,~O.; M\aa{}rtensson,~N. Charge-transfer dynamics
-  studied using resonant core spectroscopies. \emph{Rev. Mod. Phys.}
-  \textbf{2002}, \emph{74}, 703--740\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
